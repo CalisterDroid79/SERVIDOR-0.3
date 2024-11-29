@@ -1,0 +1,87 @@
+[29Nov2024 23:35:18.401] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357]
+[29Nov2024 23:35:18.406] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Nov2024 23:35:19.469] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Nov2024 23:35:20.603] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20-46.0.14/fmlcore-1.20-46.0.14.jar is missing mods.toml file
+[29Nov2024 23:35:20.609] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20-46.0.14/javafmllanguage-1.20-46.0.14.jar is missing mods.toml file
+[29Nov2024 23:35:20.613] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20-46.0.14/lowcodelanguage-1.20-46.0.14.jar is missing mods.toml file
+[29Nov2024 23:35:20.617] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20-46.0.14/mclanguage-1.20-46.0.14.jar is missing mods.toml file
+[29Nov2024 23:35:20.899] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Nov2024 23:35:26.084] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[29Nov2024 23:35:47.106] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 46.0.14, for MC 1.20 with MCP 20230608.053357
+[29Nov2024 23:35:47.114] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v46.0.14 Initialized
+[29Nov2024 23:35:49.058] [modloading-worker-0/INFO] [voicechat/]: Compatibility version 17
+[29Nov2024 23:35:49.335] [modloading-worker-0/INFO] [voicechat/]: Loading plugins
+[29Nov2024 23:35:49.353] [modloading-worker-0/INFO] [voicechat/]: Loaded 0 plugin(s)
+[29Nov2024 23:35:49.355] [modloading-worker-0/INFO] [voicechat/]: Initializing plugins
+[29Nov2024 23:35:49.356] [modloading-worker-0/INFO] [voicechat/]: Initialized 0 plugin(s)
+[29Nov2024 23:35:50.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[29Nov2024 23:35:52.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: UP_TO_DATE Current: 1.20-2.4.9 Target: null
+[29Nov2024 23:35:52.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Nov2024 23:35:52.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 46.0.14 Target: 46.0.14
+[29Nov2024 23:35:54.954] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Nov2024 23:35:57.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
+[29Nov2024 23:35:57.749] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
+[29Nov2024 23:36:05.440] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[29Nov2024 23:36:05.942] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[29Nov2024 23:36:07.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20
+[29Nov2024 23:36:07.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Nov2024 23:36:07.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Nov2024 23:36:07.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Nov2024 23:36:08.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Nov2024 23:36:08.216] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Nov2024 23:36:08.439] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Nov2024 23:36:08.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Nov2024 23:36:08.448] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Nov2024 23:36:08.450] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Nov2024 23:36:08.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Nov2024 23:36:18.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Nov2024 23:36:30.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:30.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.038] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.041] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.053] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.063] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.072] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.158] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.243] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.485] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.585] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.630] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:31.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:32.482] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:32.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:33.482] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:33.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:34.486] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 23:36:35.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[29Nov2024 23:36:35.880] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16898 ms
+[29Nov2024 23:36:35.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.285s)! For help, type "help"
+[29Nov2024 23:36:35.975] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Nov2024 23:36:35.980] [Server thread/WARN] [voicechat/]: Running in offline mode - Voice chat encryption is not secure!
+[29Nov2024 23:36:36.124] [VoiceChatServerThread/INFO] [voicechat/]: Server started at port 41622
+[29Nov2024 23:36:38.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[29Nov2024 23:38:04.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:48557] logged in with entity id 216 at (-262.5, 70.0, -175.5)
+[29Nov2024 23:38:04.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[29Nov2024 23:38:06.055] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[29Nov2024 23:38:06.058] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[29Nov2024 23:38:07.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[29Nov2024 23:38:08.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[29Nov2024 23:38:08.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[29Nov2024 23:40:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 tried to swim in lava
+[29Nov2024 23:40:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
+[29Nov2024 23:43:43.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has reached the goal [Sky's the Limit]
+[29Nov2024 23:44:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
