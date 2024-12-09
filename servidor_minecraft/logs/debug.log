@@ -791,3 +791,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Dec2024 03:20:43.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
 [09Dec2024 03:20:43.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
 [09Dec2024 03:20:43.398] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
+[09Dec2024 03:22:38.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:22:38.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:27:38.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:27:38.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
