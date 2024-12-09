@@ -101,3 +101,15 @@
 [09Dec2024 01:25:57.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
 [09Dec2024 01:25:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
 [09Dec2024 01:25:57.406] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
+[09Dec2024 01:32:38.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlataPlays[/127.227.101.24:34871] logged in with entity id 2002 at (-297.3956428206811, -54.67777621408848, -171.90493968424607)
+[09Dec2024 01:32:38.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays joined the game
+[09Dec2024 01:32:39.378] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlataPlays (17)
+[09Dec2024 01:32:39.379] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[09Dec2024 01:32:53.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[09Dec2024 01:32:54.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[09Dec2024 01:32:54.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[09Dec2024 01:33:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlataPlays: Set own game mode to Survival Mode]
+[09Dec2024 01:34:08.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays was slain by Spider
+[09Dec2024 01:34:43.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
+[09Dec2024 01:34:43.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
+[09Dec2024 01:34:43.806] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
