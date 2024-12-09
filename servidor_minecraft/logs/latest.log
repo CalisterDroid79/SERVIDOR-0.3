@@ -88,3 +88,16 @@
 [09Dec2024 01:05:14.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [09Dec2024 01:05:14.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
 [09Dec2024 01:16:10.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays suffocated in a wall
+[09Dec2024 01:23:16.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
+[09Dec2024 01:23:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
+[09Dec2024 01:23:16.506] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
+[09Dec2024 01:24:56.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlataPlays[/127.227.101.24:55125] logged in with entity id 1989 at (-246.80440901907525, 103.11367065635564, -204.05770074012037)
+[09Dec2024 01:24:57.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays joined the game
+[09Dec2024 01:24:57.360] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlataPlays (17)
+[09Dec2024 01:24:57.361] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[09Dec2024 01:24:58.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[09Dec2024 01:24:59.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[09Dec2024 01:24:59.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[09Dec2024 01:25:57.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
+[09Dec2024 01:25:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
+[09Dec2024 01:25:57.406] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
