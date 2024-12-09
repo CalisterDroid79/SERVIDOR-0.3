@@ -202,3 +202,7 @@
 [09Dec2024 03:04:21.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=76, z=36} BlockPos{x=-193, y=74, z=36}
 [09Dec2024 03:05:55.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Stone Age]
 [09Dec2024 03:06:22.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Getting an Upgrade]
+[09Dec2024 03:16:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [A Seedy Place]
+[09Dec2024 03:20:43.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
+[09Dec2024 03:20:43.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
+[09Dec2024 03:20:43.398] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
