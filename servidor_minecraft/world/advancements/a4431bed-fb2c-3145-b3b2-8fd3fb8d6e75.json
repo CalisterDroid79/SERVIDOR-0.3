@@ -529,6 +529,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-09 17:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-09 17:42:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-09 17:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "dried_kelp": "2024-12-09 17:38:44 +0000"
@@ -538,6 +556,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-09 17:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-09 17:41:42 +0000"
     },
     "done": true
   },
