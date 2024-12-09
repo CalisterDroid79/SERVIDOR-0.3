@@ -76,3 +76,7 @@
 [09Dec2024 02:31:09.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Monster Hunter]
 [09Dec2024 02:31:19.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Not Today, Thank You]
 [09Dec2024 02:42:10.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [A Seedy Place]
+[09Dec2024 02:52:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays was slain by Drowned
+[09Dec2024 02:54:40.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlataPlays lost connection: Disconnected
+[09Dec2024 02:54:40.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays left the game
+[09Dec2024 02:54:40.992] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlataPlays
