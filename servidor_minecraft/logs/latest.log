@@ -87,3 +87,4 @@
 [09Dec2024 01:05:09.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [09Dec2024 01:05:14.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [09Dec2024 01:05:14.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[09Dec2024 01:16:10.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays suffocated in a wall

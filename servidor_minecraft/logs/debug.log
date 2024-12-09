@@ -778,3 +778,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Dec2024 01:05:14.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
 [09Dec2024 01:06:22.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Dec2024 01:06:22.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 01:11:22.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 01:11:22.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 01:16:10.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays suffocated in a wall
+[09Dec2024 01:16:22.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 01:16:22.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
