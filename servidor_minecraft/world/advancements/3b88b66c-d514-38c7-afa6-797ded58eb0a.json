@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_plains": "2024-11-29 05:13:37 +0000",
       "minecraft:snowy_taiga": "2024-11-29 23:40:31 +0000",
+      "minecraft:cold_ocean": "2024-11-29 23:45:47 +0000",
       "minecraft:frozen_ocean": "2024-11-29 05:32:27 +0000",
       "minecraft:snowy_beach": "2024-11-29 05:32:23 +0000"
     },
@@ -17,6 +18,42 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-11-29 05:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-29 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-29 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-29 23:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-29 23:45:19 +0000"
     },
     "done": true
   },
