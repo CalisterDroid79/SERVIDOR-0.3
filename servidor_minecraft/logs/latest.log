@@ -134,3 +134,113 @@
 [10Dec2024 03:30:22.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [10Dec2024 03:30:23.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [10Dec2024 03:30:23.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:31:13.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:31:13.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:31:13.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:31:13.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:32:11.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:32:11.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:32:22.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:32:22.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:32:22.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:32:23.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:32:24.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:32:24.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:33:13.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:33:13.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:33:13.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:33:14.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:34:13.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:34:13.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:34:23.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:34:23.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:34:23.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:34:23.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:34:24.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:34:24.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:35:14.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:35:14.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:35:14.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:35:14.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:36:07.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:36:07.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:36:24.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:36:24.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:36:24.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:36:24.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:36:25.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:36:25.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Not Today, Thank You]
+[10Dec2024 03:37:15.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:37:15.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:37:15.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:37:15.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:38:10.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:38:10.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:38:24.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:38:24.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:38:24.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:38:24.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:38:25.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:38:25.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:39:17.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:39:17.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:39:17.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:39:18.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:40:12.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:40:12.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:40:25.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:40:25.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:40:25.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:40:25.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:40:26.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:40:26.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:42:18.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:42:18.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:42:18.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:42:19.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:43:13.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:43:13.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:43:28.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:43:28.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:43:28.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:43:28.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:43:29.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:43:29.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:44:19.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:44:19.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:44:19.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:44:19.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:45:15.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:45:15.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:45:28.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:45:28.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:45:28.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:45:29.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:45:30.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:45:30.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:46:21.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:46:21.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:46:21.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:46:21.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:47:17.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:47:17.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:47:28.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:47:28.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:47:28.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:47:28.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:47:30.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:47:30.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:49:24.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:49:24.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:49:24.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:49:24.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:50:04.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Isn't It Iron Pick]
+[10Dec2024 03:50:19.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:50:19.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[10Dec2024 03:50:31.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75 timed out
+[10Dec2024 03:50:31.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlataPlays
+[10Dec2024 03:50:31.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlataPlays
+[10Dec2024 03:50:32.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:50:33.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
+[10Dec2024 03:50:33.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat

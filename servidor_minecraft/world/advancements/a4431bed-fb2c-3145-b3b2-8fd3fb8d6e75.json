@@ -562,6 +562,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-10 03:42:45 +0000",
+      "minecraft:creeper": "2024-12-10 03:41:48 +0000",
       "minecraft:zombie": "2024-12-09 17:42:56 +0000"
     },
     "done": false
@@ -1729,6 +1731,30 @@
       "minecraft:crimson_forest": "2024-12-10 00:17:02 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-10 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-10 03:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-10 03:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-10 03:41:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3463
 }
