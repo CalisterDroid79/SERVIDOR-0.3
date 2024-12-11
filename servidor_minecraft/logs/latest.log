@@ -67,3 +67,5 @@
 [11Dec2024 21:26:37.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [11Dec2024 21:26:38.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75
 [11Dec2024 21:26:38.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
+[11Dec2024 21:36:04.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Diamonds!]
+[11Dec2024 21:42:26.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Best Friends Forever]
