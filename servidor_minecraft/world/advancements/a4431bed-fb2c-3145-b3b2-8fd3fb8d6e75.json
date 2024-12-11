@@ -564,6 +564,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-10 03:42:45 +0000",
       "minecraft:creeper": "2024-12-10 03:41:48 +0000",
+      "minecraft:zombified_piglin": "2024-12-11 21:45:58 +0000",
       "minecraft:zombie": "2024-12-09 17:42:56 +0000"
     },
     "done": false
@@ -1795,6 +1796,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-11 21:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-11 21:42:26 +0000"
     },
     "done": true
   },

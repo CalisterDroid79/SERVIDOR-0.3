@@ -654,3 +654,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 21:39:37.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 21:39:37.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Dec2024 21:42:26.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Best Friends Forever]
+[11Dec2024 21:44:37.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:44:37.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:49:37.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:49:37.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
