@@ -179,3 +179,9 @@
 [12Dec2024 00:40:30.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlataPlays (a4431bed-fb2c-3145-b3b2-8fd3fb8d6e75) successfully connected to voice chat
 [12Dec2024 00:42:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Stone Age]
 [12Dec2024 00:45:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Getting an Upgrade]
+[12Dec2024 00:54:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays was shot by Skeleton
+[12Dec2024 00:54:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlataPlays: Set own game mode to Adventure Mode]
+[12Dec2024 00:54:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays was shot by Skeleton
+[12Dec2024 00:55:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlataPlays: Set own game mode to Creative Mode]
+[12Dec2024 00:55:27.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Monster Hunter]
+[12Dec2024 00:58:17.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Sneak 100]

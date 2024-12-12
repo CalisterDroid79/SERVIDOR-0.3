@@ -769,3 +769,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 00:45:14.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 00:45:14.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 00:45:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Getting an Upgrade]
+[12Dec2024 00:50:14.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 00:50:14.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 00:54:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays was shot by Skeleton
+[12Dec2024 00:54:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlataPlays: Set own game mode to Adventure Mode]
+[12Dec2024 00:54:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays was shot by Skeleton
+[12Dec2024 00:55:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlataPlays: Set own game mode to Creative Mode]
+[12Dec2024 00:55:14.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 00:55:14.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 00:55:27.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Monster Hunter]
+[12Dec2024 00:58:17.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlataPlays has made the advancement [Sneak 100]

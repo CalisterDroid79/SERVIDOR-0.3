@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-12 00:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 00:40:56 +0000"
@@ -35,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-12 00:41:10 +0000"
@@ -47,9 +65,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 00:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-12 00:45:53 +0000"
     },
     "done": true
   },
@@ -119,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-12 00:42:22 +0000"
@@ -149,6 +191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-12 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-12 00:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-12 00:41:34 +0000"
@@ -167,9 +221,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-12 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-12 00:49:24 +0000"
     },
     "done": true
   },
@@ -182,6 +254,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-12 00:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-12 00:45:51 +0000"
     },
     "done": true
   },
@@ -215,6 +293,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-12 00:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 00:40:56 +0000"
@@ -224,6 +326,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2024-12-12 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
     },
     "done": true
   },
@@ -239,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 00:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 00:40:56 +0000"
@@ -248,6 +362,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 00:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-12 00:45:53 +0000"
     },
     "done": true
   },
@@ -261,9 +381,16 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2024-12-12 00:40:36 +0000",
       "minecraft:beach": "2024-12-12 00:40:49 +0000",
-      "minecraft:sparse_jungle": "2024-12-12 00:40:22 +0000"
+      "minecraft:sparse_jungle": "2024-12-12 00:40:22 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-12 00:46:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -283,6 +410,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-12 00:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-12 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-12 00:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "suspicious_stew": "2024-12-12 00:47:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-12 00:41:30 +0000"
@@ -295,15 +452,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-12 00:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 00:40:56 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-12 00:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-12 00:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
     },
     "done": true
   },
@@ -319,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 00:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-12 00:41:36 +0000"
@@ -331,9 +518,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 00:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-12 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-12 00:45:45 +0000"
     },
     "done": true
   },
