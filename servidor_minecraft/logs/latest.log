@@ -133,3 +133,24 @@
 [04Jan2025 21:47:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Getting an Upgrade]
 [04Jan2025 21:48:13.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Stone Age]
 [04Jan2025 21:49:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Getting an Upgrade]
+[04Jan2025 21:55:08.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Sweet Dreams]
+[04Jan2025 21:55:19.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[04Jan2025 21:55:19.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[04Jan2025 21:55:19.872] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
+[04Jan2025 21:55:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Sweet Dreams]
+[04Jan2025 21:55:32.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:48355] logged in with entity id 2902 at (-16.97405542507529, 71.0, -155.79521698815304)
+[04Jan2025 21:55:32.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[04Jan2025 21:55:32.438] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[04Jan2025 21:55:32.439] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[04Jan2025 21:55:34.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[04Jan2025 21:55:35.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[04Jan2025 21:55:35.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[04Jan2025 22:02:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [What a Deal!]
+[04Jan2025 22:03:38.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=63, z=-440} BlockPos{x=114, y=63, z=-439}
+[04Jan2025 22:03:38.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=63, z=-440} BlockPos{x=114, y=63, z=-439}
+[04Jan2025 22:03:38.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=63, z=-439} BlockPos{x=114, y=63, z=-439}
+[04Jan2025 22:06:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> dawdawd
+[04Jan2025 22:06:38.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=65, z=-469} BlockPos{x=117, y=65, z=-470}
+[04Jan2025 22:07:02.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=64, z=-455} BlockPos{x=112, y=63, z=-456}
+[04Jan2025 22:08:59.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=65, z=-466} BlockPos{x=125, y=63, z=-465}
+[04Jan2025 22:12:00.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Acquire Hardware]
