@@ -163,3 +163,14 @@
 [04Jan2025 20:49:31.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
 [04Jan2025 20:49:31.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
 [04Jan2025 20:49:31.214] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
+[04Jan2025 20:51:04.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:43039] logged in with entity id 7000 at (170.69999998807907, -5.0, 155.35969458121917)
+[04Jan2025 20:51:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[04Jan2025 20:51:04.566] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[04Jan2025 20:51:04.567] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[04Jan2025 20:51:07.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[04Jan2025 20:51:08.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[04Jan2025 20:51:08.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[04Jan2025 20:57:31.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Suit Up]
+[04Jan2025 20:58:25.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Cave Spider
+[04Jan2025 20:59:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Creative Mode]
+[04Jan2025 20:59:49.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 was slain by Spider
