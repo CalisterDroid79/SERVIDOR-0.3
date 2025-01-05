@@ -131,3 +131,12 @@
 [05Jan2025 23:37:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Night Vision to CalisterDroid79]
 [05Jan2025 23:37:28.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Night Vision to CalisterDroid79]
 [05Jan2025 23:40:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set the time to 1000]
+[05Jan2025 23:48:24.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
+[05Jan2025 23:48:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Removed effect Night Vision from CalisterDroid79]
+[05Jan2025 23:49:01.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=109, z=-456} BlockPos{x=296, y=107, z=-455}
+[05Jan2025 23:49:01.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=109, z=-456} BlockPos{x=296, y=107, z=-455}
+[05Jan2025 23:49:01.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=109, z=-456} BlockPos{x=296, y=107, z=-455}
+[05Jan2025 23:49:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[05Jan2025 23:49:44.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[05Jan2025 23:49:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[05Jan2025 23:49:44.312] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79

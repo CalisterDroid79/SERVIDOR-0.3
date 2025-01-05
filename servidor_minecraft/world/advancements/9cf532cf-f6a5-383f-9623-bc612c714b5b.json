@@ -418,6 +418,7 @@
       "cooked_beef": "2025-01-05 00:46:38 +0000",
       "beef": "2025-01-05 00:35:15 +0000",
       "porkchop": "2025-01-05 22:20:59 +0000",
+      "bread": "2025-01-05 23:43:00 +0000",
       "rotten_flesh": "2025-01-05 00:51:56 +0000"
     },
     "done": false
@@ -1050,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-05 23:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-01-05 22:38:17 +0000"
@@ -1077,6 +1084,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
     },
     "done": true
   },
@@ -1183,6 +1196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-05 22:37:49 +0000"
@@ -1192,6 +1211,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
     },
     "done": true
   },
@@ -1231,6 +1256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 22:44:54 +0000"
@@ -1246,6 +1277,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-05 22:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
     },
     "done": true
   },
@@ -1279,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 22:44:54 +0000"
@@ -1288,6 +1331,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
     },
     "done": true
   },
@@ -1366,6 +1415,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-05 22:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-05 23:48:53 +0000"
     },
     "done": true
   },
@@ -1567,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 23:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-05 22:15:42 +0000"
@@ -1576,6 +1637,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 22:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-05 23:42:52 +0000"
     },
     "done": true
   },
@@ -1615,6 +1682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-05 23:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-05 22:38:17 +0000"
@@ -1624,6 +1697,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 22:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 23:42:47 +0000"
     },
     "done": true
   },
@@ -1666,6 +1745,12 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-01-05 22:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 23:48:53 +0000"
     },
     "done": true
   },
