@@ -909,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 22:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-05 22:26:42 +0000"
@@ -1073,6 +1079,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-05 22:35:28 +0000",
       "cooked_mutton": "2025-01-05 22:07:15 +0000",
+      "cooked_beef": "2025-01-05 22:51:52 +0000",
       "porkchop": "2025-01-05 22:25:48 +0000"
     },
     "done": false
@@ -1152,6 +1159,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-05 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 22:49:29 +0000"
     },
     "done": true
   },
@@ -1299,6 +1312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-05 22:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 22:44:51 +0000"
@@ -1326,6 +1345,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-05 22:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-05 22:54:19 +0000"
     },
     "done": true
   },
