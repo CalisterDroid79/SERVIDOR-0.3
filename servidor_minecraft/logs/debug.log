@@ -1093,3 +1093,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 00:57:25.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [05Jan2025 00:57:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: title Hola<--[HERE]
 [05Jan2025 00:57:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Suit Up]
+[05Jan2025 01:01:10.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:01:10.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:01:59.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Varita Magica] to EliseoPlays908
+[05Jan2025 01:03:04.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Displaying particle minecraft:falling_dust
+[05Jan2025 01:03:22.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05Jan2025 01:03:29.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[05Jan2025 01:03:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown scoreboard objective 'BL'
+[05Jan2025 01:04:03.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[05Jan2025 01:04:03.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ..., limit=1]
+execute if score BL BL matches 6.. run kill @e[tag=BL, limit=1]<--[HERE]
+[05Jan2025 01:04:15.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Varita Magica] to EliseoPlays908
+[05Jan2025 01:05:14.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[05Jan2025 01:05:14.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... @a title Hola<--[HERE]
+[05Jan2025 01:06:07.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Stick] to EliseoPlays908
+[05Jan2025 01:06:10.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:06:10.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:09:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new actionbar title for EliseoPlays908
+[05Jan2025 01:10:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[05Jan2025 01:10:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... @a title Apaga<--[HERE]
