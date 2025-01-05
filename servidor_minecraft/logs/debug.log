@@ -844,3 +844,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 22:37:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [We Need to Go Deeper]
 [05Jan2025 22:37:50.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
 [05Jan2025 22:37:50.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [We Need to Go Deeper]
+[05Jan2025 22:42:11.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 22:42:11.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 22:44:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Oh Shiny]
+[05Jan2025 22:44:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Ice Bucket Challenge]
+[05Jan2025 22:46:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Oh Shiny]
+[05Jan2025 22:47:11.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 22:47:11.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 22:51:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Who is Cutting Onions?]
+[05Jan2025 22:51:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Ice Bucket Challenge]
