@@ -155,3 +155,47 @@
 [05Jan2025 00:27:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> quien eres
 [05Jan2025 00:28:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> que ases en mi mundo
 [05Jan2025 00:28:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> eres humano
+[05Jan2025 00:32:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hola soy Herobrine >:u
+[05Jan2025 00:32:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> eres piero
+[05Jan2025 00:33:04.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Timed out
+[05Jan2025 00:33:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[05Jan2025 00:33:04.653] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
+[05Jan2025 00:33:04.722] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 00:33:18.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:43569] logged in with entity id 2392 at (16.235260315234022, 48.0, 56.05179734692115)
+[05Jan2025 00:33:18.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[05Jan2025 00:33:19.268] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
+[05Jan2025 00:33:19.269] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[05Jan2025 00:33:29.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] porque te sales?
+[05Jan2025 00:33:48.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Timed out
+[05Jan2025 00:33:48.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[05Jan2025 00:33:48.951] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
+[05Jan2025 00:34:11.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:37745] logged in with entity id 2472 at (16.235260315234022, 48.0, 56.05179734692115)
+[05Jan2025 00:34:11.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[05Jan2025 00:34:12.091] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
+[05Jan2025 00:34:12.092] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[05Jan2025 00:34:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me tienes miedo?
+[05Jan2025 00:34:29.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[05Jan2025 00:34:30.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[05Jan2025 00:34:30.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
+[05Jan2025 00:34:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> piero
+[05Jan2025 00:34:42.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me tienes miedo?
+[05Jan2025 00:34:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> eres trtu
+[05Jan2025 00:35:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] quien es ese piero?
+[05Jan2025 00:35:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> tu
+[05Jan2025 00:35:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Primed TNT
+[05Jan2025 00:35:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> que
+[05Jan2025 00:35:59.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:thunder' of type 'minecraft:entity_type'
+[05Jan2025 00:36:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> mata al esqueleto que esta afuera
+[05Jan2025 00:37:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected float
+[05Jan2025 00:37:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time set thunder<--[HERE]
+[05Jan2025 00:37:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> t
+[05Jan2025 00:38:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Acquire Hardware]
+[05Jan2025 00:39:03.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Isn't It Iron Pick]
+[05Jan2025 00:39:11.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[05Jan2025 00:39:11.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kill @e [type=!player]<--[HERE]
+[05Jan2025 00:39:37.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[05Jan2025 00:39:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kill @e [type=!EliseoPlays908]<--[HERE]
+[05Jan2025 00:39:41.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> t
+[05Jan2025 00:39:49.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jan2025 00:39:49.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[05Jan2025 00:39:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hello
