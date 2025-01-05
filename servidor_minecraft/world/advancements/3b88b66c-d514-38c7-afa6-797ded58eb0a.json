@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-05 22:32:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-05 22:06:24 +0000"
@@ -98,6 +104,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-01-05 22:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-05 22:34:15 +0000"
     },
     "done": true
   },
@@ -467,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-05 22:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-05 22:10:56 +0000"
@@ -506,6 +524,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-05 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-05 22:34:55 +0000"
     },
     "done": true
   },
@@ -566,7 +590,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-05 22:25:38 +0000",
-      "minecraft:spider": "2025-01-05 22:15:33 +0000"
+      "minecraft:spider": "2025-01-05 22:15:33 +0000",
+      "minecraft:enderman": "2025-01-05 22:28:03 +0000"
     },
     "done": false
   },
@@ -682,6 +707,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-05 22:04:38 +0000",
       "minecraft:birch_forest": "2025-01-05 22:03:56 +0000",
+      "minecraft:forest": "2025-01-05 22:34:51 +0000",
       "minecraft:plains": "2025-01-05 22:04:47 +0000"
     },
     "done": false
@@ -754,6 +780,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-05 22:35:28 +0000",
       "cooked_mutton": "2025-01-05 22:07:15 +0000",
       "porkchop": "2025-01-05 22:25:48 +0000"
     },
@@ -858,6 +885,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-05 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-05 22:33:57 +0000"
     },
     "done": true
   },
