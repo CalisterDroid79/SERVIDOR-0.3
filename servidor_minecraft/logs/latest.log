@@ -112,3 +112,5 @@
 [05Jan2025 22:55:09.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=93, z=-42} BlockPos{x=-24, y=91, z=-42}
 [05Jan2025 22:55:10.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=93, z=-42} BlockPos{x=-24, y=91, z=-42}
 [05Jan2025 23:01:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[05Jan2025 23:03:48.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[05Jan2025 23:11:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [The Parrots and the Bats]
