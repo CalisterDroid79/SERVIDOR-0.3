@@ -217,3 +217,15 @@
 [05Jan2025 00:48:56.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] i´m Herobirne
 [05Jan2025 00:49:04.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Herobrine
 [05Jan2025 00:49:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Monster Hunter]
+[05Jan2025 00:51:45.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:diamongive'
+[05Jan2025 00:51:45.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...oPlays908 diamongive EliseoPlays908 minecraft:diamont_block 64<--[HERE]
+[05Jan2025 00:52:32.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[05Jan2025 00:52:32.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...oPlays908  minecraft:diamond_sword{display:{Lore:["\"Un arma legendaria\""]}}<--[HERE]
+[05Jan2025 00:53:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Diamond Sword] to EliseoPlays908
+[05Jan2025 00:53:29.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Primed TNT
+[05Jan2025 00:54:56.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:diamondshoveld'
+[05Jan2025 00:54:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @p minecraft:diamondshoveld{display:{Lore:["\"Un arma legendaria\""]}}<--[HERE]
+[05Jan2025 00:55:08.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> TTTTTTT
+[05Jan2025 00:57:25.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jan2025 00:57:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: title Hola<--[HERE]
+[05Jan2025 00:57:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Suit Up]
