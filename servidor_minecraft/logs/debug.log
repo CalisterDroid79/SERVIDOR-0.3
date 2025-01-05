@@ -886,3 +886,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 23:28:09.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Showing new title for 2 players]
 [05Jan2025 23:32:11.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jan2025 23:32:11.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 23:33:32.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
+[05Jan2025 23:33:43.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Adventure Mode]
+[05Jan2025 23:33:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
+[05Jan2025 23:33:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Spectator Mode]
+[05Jan2025 23:37:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Night Vision to CalisterDroid79]
+[05Jan2025 23:37:11.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 23:37:11.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 23:37:28.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Night Vision to CalisterDroid79]
+[05Jan2025 23:40:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set the time to 1000]
+[05Jan2025 23:42:11.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 23:42:11.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
