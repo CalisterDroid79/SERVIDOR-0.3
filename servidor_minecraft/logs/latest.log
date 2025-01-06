@@ -1,142 +1,19 @@
-[05Jan2025 22:01:38.147] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357]
-[05Jan2025 22:01:38.151] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Jan2025 22:01:38.402] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Jan2025 22:01:38.730] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20-46.0.14/fmlcore-1.20-46.0.14.jar is missing mods.toml file
-[05Jan2025 22:01:38.733] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20-46.0.14/javafmllanguage-1.20-46.0.14.jar is missing mods.toml file
-[05Jan2025 22:01:38.735] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20-46.0.14/lowcodelanguage-1.20-46.0.14.jar is missing mods.toml file
-[05Jan2025 22:01:38.738] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20-46.0.14/mclanguage-1.20-46.0.14.jar is missing mods.toml file
-[05Jan2025 22:01:38.834] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[05Jan2025 22:01:40.579] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[05Jan2025 22:01:40.615] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Jan2025 22:01:40.788] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[05Jan2025 22:01:40.789] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[05Jan2025 22:01:40.789] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[05Jan2025 22:01:40.794] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[05Jan2025 22:01:40.794] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[05Jan2025 22:01:40.794] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[05Jan2025 22:01:40.989] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[05Jan2025 22:01:40.989] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[05Jan2025 22:01:49.892] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 46.0.14, for MC 1.20 with MCP 20230608.053357
-[05Jan2025 22:01:49.895] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v46.0.14 Initialized
-[05Jan2025 22:01:50.554] [modloading-worker-0/INFO] [voicechat/]: Compatibility version 17
-[05Jan2025 22:01:50.635] [modloading-worker-0/INFO] [voicechat/]: Loading plugins
-[05Jan2025 22:01:50.646] [modloading-worker-0/INFO] [voicechat/]: Loaded 0 plugin(s)
-[05Jan2025 22:01:50.654] [modloading-worker-0/INFO] [voicechat/]: Initializing plugins
-[05Jan2025 22:01:50.654] [modloading-worker-0/INFO] [voicechat/]: Initialized 0 plugin(s)
-[05Jan2025 22:01:50.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[05Jan2025 22:01:52.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: UP_TO_DATE Current: 1.20-2.4.9 Target: null
-[05Jan2025 22:01:52.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jan2025 22:01:52.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 46.0.14 Target: 46.0.14
-[05Jan2025 22:01:52.737] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jan2025 22:01:53.633] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23105!/assets/.mcassetsroot' uses unexpected schema
-[05Jan2025 22:01:53.634] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraft/server/1.20-20230608.053357/server-1.20-20230608.053357-srg.jar%23105!/data/.mcassetsroot' uses unexpected schema
-[05Jan2025 22:01:55.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[05Jan2025 22:01:56.100] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[05Jan2025 22:01:57.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20
-[05Jan2025 22:01:57.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jan2025 22:01:57.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jan2025 22:01:57.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jan2025 22:01:57.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jan2025 22:01:57.469] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Jan2025 22:01:57.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Jan2025 22:01:57.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Jan2025 22:01:57.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Jan2025 22:01:57.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Jan2025 22:01:57.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jan2025 22:02:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jan2025 22:02:04.880] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:04.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:04.951] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:04.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:05.012] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:05.042] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:05.072] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:05.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:05.215] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:05.699] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:06.202] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:06.700] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 22:02:07.197] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[05Jan2025 22:02:07.699] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[05Jan2025 22:02:08.269] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[05Jan2025 22:02:08.481] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7284 ms
-[05Jan2025 22:02:08.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.894s)! For help, type "help"
-[05Jan2025 22:02:08.491] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Jan2025 22:02:08.492] [Server thread/WARN] [voicechat/]: Running in offline mode - Voice chat encryption is not secure!
-[05Jan2025 22:02:08.507] [VoiceChatServerThread/INFO] [voicechat/]: Server started at port 41622
-[05Jan2025 22:02:46.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:45977] logged in with entity id 96 at (-472.84759543508744, 45.0, 474.30000001192093)
-[05Jan2025 22:02:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
-[05Jan2025 22:02:47.859] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
-[05Jan2025 22:02:47.862] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
-[05Jan2025 22:02:48.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
-[05Jan2025 22:02:49.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
-[05Jan2025 22:02:49.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
-[05Jan2025 22:03:55.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:33149] logged in with entity id 572 at (3.5, 82.0, -8.5)
-[05Jan2025 22:03:55.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
-[05Jan2025 22:03:56.118] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
-[05Jan2025 22:03:56.119] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
-[05Jan2025 22:03:57.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
-[05Jan2025 22:03:58.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
-[05Jan2025 22:03:58.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
-[05Jan2025 22:04:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 22:04:48.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Stone Age]
-[05Jan2025 22:05:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Gave 1 [Stick] to CalisterDroid79]
-[05Jan2025 22:06:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Acquire Hardware]
-[05Jan2025 22:06:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Showing new title for 2 players]
-[05Jan2025 22:07:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Showing new title for 2 players]
-[05Jan2025 22:07:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Isn't It Iron Pick]
-[05Jan2025 22:08:41.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Sweet Dreams]
-[05Jan2025 22:13:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Nausea to 2 targets]
-[05Jan2025 22:13:59.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Nausea to 2 targets]
-[05Jan2025 22:14:47.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 22:15:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Monster Hunter]
-[05Jan2025 22:15:37.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Not Today, Thank You]
-[05Jan2025 22:17:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 was doomed to fall by EliseoPlays908
-[05Jan2025 22:17:48.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
-[05Jan2025 22:17:53.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 22:22:35.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Suit Up]
-[05Jan2025 22:28:39.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 fell from a high place
-[05Jan2025 22:28:56.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 22:29:01.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
-[05Jan2025 22:29:16.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 22:34:15.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Hot Stuff]
-[05Jan2025 22:34:19.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Hot Stuff]
-[05Jan2025 22:37:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [We Need to Go Deeper]
-[05Jan2025 22:37:50.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
-[05Jan2025 22:37:50.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [We Need to Go Deeper]
-[05Jan2025 22:44:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Oh Shiny]
-[05Jan2025 22:44:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Ice Bucket Challenge]
-[05Jan2025 22:46:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Oh Shiny]
-[05Jan2025 22:51:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Who is Cutting Onions?]
-[05Jan2025 22:51:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Ice Bucket Challenge]
-[05Jan2025 22:55:09.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=93, z=-42} BlockPos{x=-24, y=91, z=-42}
-[05Jan2025 22:55:10.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=93, z=-42} BlockPos{x=-24, y=91, z=-42}
-[05Jan2025 23:01:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 23:03:48.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 23:11:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [The Parrots and the Bats]
-[05Jan2025 23:13:54.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
-[05Jan2025 23:16:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 23:16:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
-[05Jan2025 23:21:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Getting an Upgrade]
-[05Jan2025 23:24:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
-[05Jan2025 23:24:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
-[05Jan2025 23:24:26.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Creative Mode]
-[05Jan2025 23:24:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
-[05Jan2025 23:28:06.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Showing new title for 2 players]
-[05Jan2025 23:28:09.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Showing new title for 2 players]
-[05Jan2025 23:33:32.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
-[05Jan2025 23:33:43.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Adventure Mode]
-[05Jan2025 23:33:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
-[05Jan2025 23:33:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Spectator Mode]
-[05Jan2025 23:37:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Night Vision to CalisterDroid79]
-[05Jan2025 23:37:28.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Applied effect Night Vision to CalisterDroid79]
-[05Jan2025 23:40:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set the time to 1000]
-[05Jan2025 23:48:24.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
-[05Jan2025 23:48:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Removed effect Night Vision from CalisterDroid79]
-[05Jan2025 23:49:01.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=109, z=-456} BlockPos{x=296, y=107, z=-455}
-[05Jan2025 23:49:01.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=109, z=-456} BlockPos{x=296, y=107, z=-455}
-[05Jan2025 23:49:01.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=109, z=-456} BlockPos{x=296, y=107, z=-455}
-[05Jan2025 23:49:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
-[05Jan2025 23:49:44.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
-[05Jan2025 23:49:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
-[05Jan2025 23:49:44.312] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
+[06Jan2025 00:04:45.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:36215] logged in with entity id 30243 at (251.11549533021557, 86.0, -384.15984703542557)
+[06Jan2025 00:04:45.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[06Jan2025 00:04:46.693] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[06Jan2025 00:04:46.694] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[06Jan2025 00:04:48.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[06Jan2025 00:04:49.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[06Jan2025 00:04:49.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[06Jan2025 00:07:58.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[06Jan2025 00:07:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[06Jan2025 00:07:58.458] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
+[06Jan2025 00:11:26.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola soy herovrine
+[06Jan2025 00:12:11.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:43251] logged in with entity id 31533 at (258.7501246682668, 86.0, -381.77261468988604)
+[06Jan2025 00:12:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[06Jan2025 00:12:12.809] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[06Jan2025 00:12:12.810] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[06Jan2025 00:12:14.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[06Jan2025 00:12:15.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[06Jan2025 00:12:15.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[06Jan2025 00:12:34.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
