@@ -1,19 +1,79 @@
-[06Jan2025 00:04:45.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:36215] logged in with entity id 30243 at (251.11549533021557, 86.0, -384.15984703542557)
-[06Jan2025 00:04:45.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
-[06Jan2025 00:04:46.693] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
-[06Jan2025 00:04:46.694] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
-[06Jan2025 00:04:48.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
-[06Jan2025 00:04:49.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
-[06Jan2025 00:04:49.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
-[06Jan2025 00:07:58.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
-[06Jan2025 00:07:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
-[06Jan2025 00:07:58.458] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
-[06Jan2025 00:11:26.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola soy herovrine
-[06Jan2025 00:12:11.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:43251] logged in with entity id 31533 at (258.7501246682668, 86.0, -381.77261468988604)
-[06Jan2025 00:12:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
-[06Jan2025 00:12:12.809] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
-[06Jan2025 00:12:12.810] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
-[06Jan2025 00:12:14.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
-[06Jan2025 00:12:15.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
-[06Jan2025 00:12:15.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
-[06Jan2025 00:12:34.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[06Jan2025 00:39:56.897] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357]
+[06Jan2025 00:39:56.903] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Jan2025 00:39:57.125] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Jan2025 00:39:57.492] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20-46.0.14/fmlcore-1.20-46.0.14.jar is missing mods.toml file
+[06Jan2025 00:39:57.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20-46.0.14/javafmllanguage-1.20-46.0.14.jar is missing mods.toml file
+[06Jan2025 00:39:57.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20-46.0.14/lowcodelanguage-1.20-46.0.14.jar is missing mods.toml file
+[06Jan2025 00:39:57.497] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20-46.0.14/mclanguage-1.20-46.0.14.jar is missing mods.toml file
+[06Jan2025 00:39:57.608] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Jan2025 00:39:57.704] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'camera', Expected range: '[47.0.0,)', Actual version: '46.0.14'
+	Mod ID: 'minecraft', Requested by: 'camera', Expected range: '[1.20.1,1.20.1]', Actual version: '1.20'
+[06Jan2025 00:39:59.341] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[06Jan2025 00:39:59.345] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[06Jan2025 00:39:59.389] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Jan2025 00:39:59.390] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[06Jan2025 00:39:59.575] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[06Jan2025 00:39:59.577] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[06Jan2025 00:39:59.577] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[06Jan2025 00:39:59.585] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[06Jan2025 00:39:59.586] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[06Jan2025 00:39:59.586] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[06Jan2025 00:39:59.643] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[06Jan2025 00:39:59.645] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[06Jan2025 00:40:06.934] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §ecamera§r requires §6forge§r §o47.0.0 or above§r
+§7Currently, §6forge§r§7 is §o46.0.14
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.20-46.0.14.jar%23108!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:722) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:94) ~[fmlcore-1.20-46.0.14.jar%23108!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:126) ~[fmlcore-1.20-46.0.14.jar%23108!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.20-46.0.14-universal.jar%23112!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20-20230608.053357-srg.jar%23107!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:30) ~[fmlloader-1.20-46.0.14.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Jan2025 00:40:07.007] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-01-06_00.40.07-fml.txt
+[06Jan2025 00:40:07.008] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §ecamera§r requires §6forge§r §o47.0.0 or above§r
+§7Currently, §6forge§r§7 is §o46.0.14,
+	Mod §ecamera§r requires §6minecraft§r §o1.20.1§r
+§7Currently, §6minecraft§r§7 is §o1.20
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:147) ~[fmlcore-1.20-46.0.14.jar%23108!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.20-46.0.14-universal.jar%23112!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20-20230608.053357-srg.jar%23107!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:30) ~[fmlloader-1.20-46.0.14.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
