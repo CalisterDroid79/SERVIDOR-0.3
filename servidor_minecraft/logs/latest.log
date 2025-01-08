@@ -90,3 +90,4 @@
 [08Jan2025 18:54:14.190] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
 [08Jan2025 18:54:14.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
 [08Jan2025 19:15:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [The Parrots and the Bats]
+[08Jan2025 19:59:24.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=105, z=-423} BlockPos{x=266, y=103, z=-422}
