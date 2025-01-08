@@ -9,3 +9,24 @@
 [08Jan2025 00:18:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me avisas para apagar
 [08Jan2025 00:30:22.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> t
 [08Jan2025 00:35:41.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/104, l='ServerLevel[world]', x=264.70, y=100.00, z=-418.70] died, message: 'Farmer was slain by Zombie'
+[08Jan2025 01:08:35.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:34587] logged in with entity id 10439 at (251.0017075055925, 86.0, -375.05132939813126)
+[08Jan2025 01:08:35.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[08Jan2025 01:08:36.984] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[08Jan2025 01:08:36.985] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[08Jan2025 01:08:38.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 01:08:39.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 01:08:39.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[08Jan2025 01:09:02.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[08Jan2025 01:09:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[08Jan2025 01:09:02.321] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
+[08Jan2025 01:09:06.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:37025] logged in with entity id 10567 at (248.30000001192093, 86.0, -379.3349910311074)
+[08Jan2025 01:09:06.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[08Jan2025 01:09:06.810] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[08Jan2025 01:09:06.811] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[08Jan2025 01:09:08.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 01:09:09.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 01:09:09.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[08Jan2025 01:11:54.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [A Seedy Place]
+[08Jan2025 01:12:12.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[08Jan2025 01:12:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[08Jan2025 01:12:12.769] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
