@@ -94,3 +94,7 @@
 [08Jan2025 20:04:41.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se salio el server?
 [08Jan2025 20:05:07.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> estoy en server
 [08Jan2025 20:05:16.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya
+[08Jan2025 20:25:02.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=94, z=-347} BlockPos{x=273, y=92, z=-347}
+[08Jan2025 20:25:03.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=273, y=94, z=-345} BlockPos{x=272, y=93, z=-343}
+[08Jan2025 20:25:07.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=95, z=-342} BlockPos{x=269, y=93, z=-344}
+[08Jan2025 20:25:07.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=95, z=-342} BlockPos{x=269, y=93, z=-344}
