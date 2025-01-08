@@ -12,6 +12,7 @@
       "minecraft:beach": "2025-01-05 23:06:03 +0000",
       "minecraft:river": "2025-01-05 01:04:36 +0000",
       "minecraft:stony_shore": "2025-01-05 23:06:24 +0000",
+      "minecraft:dripstone_caves": "2025-01-08 21:25:06 +0000",
       "minecraft:cold_ocean": "2025-01-05 23:06:30 +0000",
       "minecraft:forest": "2025-01-05 00:26:05 +0000",
       "minecraft:ocean": "2025-01-05 23:06:06 +0000",
@@ -663,6 +664,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-05 22:15:58 +0000",
       "minecraft:spider": "2025-01-05 22:26:12 +0000",
+      "minecraft:creeper": "2025-01-08 21:24:53 +0000",
       "minecraft:zombified_piglin": "2025-01-05 23:04:46 +0000",
       "minecraft:enderman": "2025-01-05 22:26:19 +0000",
       "minecraft:zombie": "2025-01-05 00:49:30 +0000"
