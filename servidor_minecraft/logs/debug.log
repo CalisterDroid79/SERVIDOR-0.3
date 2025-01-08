@@ -866,3 +866,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 00:12:03.228] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
 [08Jan2025 00:12:08.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 00:12:08.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 00:16:51.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] helosasay hola
+[08Jan2025 00:17:08.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 00:17:08.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 00:17:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se salio el server?
+[08Jan2025 00:17:55.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> que
+[08Jan2025 00:18:05.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> toy jugando
+[08Jan2025 00:18:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si, parecia que se havia malografo
+[08Jan2025 00:18:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me avisas para apagar
+[08Jan2025 00:22:08.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 00:22:08.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
