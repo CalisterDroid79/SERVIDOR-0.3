@@ -118,3 +118,19 @@
 [08Jan2025 21:44:47.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
 [08Jan2025 21:50:03.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 moved too quickly! -0.5521771569791554,-3.504799122994072,9.629640255613879
 [08Jan2025 22:00:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> holsa
+[08Jan2025 22:04:58.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player 9cf532cf-f6a5-383f-9623-bc612c714b5b timed out
+[08Jan2025 22:04:58.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlays908
+[08Jan2025 22:04:58.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[08Jan2025 22:05:01.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Timed out
+[08Jan2025 22:05:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[08Jan2025 22:05:01.608] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
+[08Jan2025 22:05:23.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:49179] logged in with entity id 33826 at (261.95048750162465, 86.0625, -384.5953985587738)
+[08Jan2025 22:05:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[08Jan2025 22:05:24.397] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
+[08Jan2025 22:05:24.398] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[08Jan2025 22:05:26.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 22:05:27.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 22:05:27.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
+[08Jan2025 22:08:40.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[08Jan2025 22:08:40.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[08Jan2025 22:08:40.907] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
