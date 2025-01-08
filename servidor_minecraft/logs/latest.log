@@ -219,3 +219,16 @@
 [08Jan2025 23:20:44.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
 [08Jan2025 23:20:45.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
 [08Jan2025 23:20:45.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
+[08Jan2025 23:31:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [What a Deal!]
+[08Jan2025 23:35:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[08Jan2025 23:35:25.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 was shot by Skeleton
+[08Jan2025 23:35:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[08Jan2025 23:35:52.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[08Jan2025 23:36:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Take Aim]
+[08Jan2025 23:36:25.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
+[08Jan2025 23:36:42.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Spectator Mode]
+[08Jan2025 23:36:59.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Creative Mode]
+[08Jan2025 23:37:02.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[08Jan2025 23:40:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[08Jan2025 23:41:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[08Jan2025 23:41:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]

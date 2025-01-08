@@ -384,7 +384,9 @@
       "beef": "2025-01-08 23:09:49 +0000",
       "porkchop": "2025-01-05 22:25:48 +0000",
       "apple": "2025-01-05 23:19:54 +0000",
+      "spider_eye": "2025-01-08 23:34:07 +0000",
       "potato": "2025-01-06 00:15:39 +0000",
+      "rabbit": "2025-01-08 23:29:33 +0000",
       "mutton": "2025-01-08 22:56:57 +0000",
       "bread": "2025-01-05 23:30:29 +0000",
       "rotten_flesh": "2025-01-08 22:25:45 +0000",
@@ -1791,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-08 23:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-08 22:20:06 +0000"
@@ -1821,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-08 23:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-08 22:30:06 +0000"
@@ -1836,6 +1850,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-08 23:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-08 23:19:33 +0000"
     },
     "done": true
   },
