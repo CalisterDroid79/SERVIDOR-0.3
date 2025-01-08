@@ -134,3 +134,42 @@
 [08Jan2025 22:08:40.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
 [08Jan2025 22:08:40.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
 [08Jan2025 22:08:40.907] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
+[08Jan2025 22:11:58.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:37883] logged in with entity id 34620 at (227.30000001192093, 83.9375, -398.1100387005932)
+[08Jan2025 22:11:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[08Jan2025 22:11:59.268] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[08Jan2025 22:11:59.269] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[08Jan2025 22:12:02.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 22:12:03.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 22:12:03.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[08Jan2025 22:13:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Glow and Behold!]
+[08Jan2025 22:15:45.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[08Jan2025 22:15:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[08Jan2025 22:15:45.607] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
+[08Jan2025 22:16:55.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:59841] logged in with entity id 35345 at (255.6617979763117, 86.0625, -383.13749998807907)
+[08Jan2025 22:16:55.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[08Jan2025 22:16:56.817] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[08Jan2025 22:16:56.817] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[08Jan2025 22:16:58.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 22:16:59.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[08Jan2025 22:16:59.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[08Jan2025 22:17:19.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> CalisterDroid79
+[08Jan2025 22:17:23.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> CalisterDroid79
+[08Jan2025 22:17:30.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:33581] logged in with entity id 35641 at (260.78437103695217, 86.0625, -385.35510830665527)
+[08Jan2025 22:17:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[08Jan2025 22:17:31.340] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
+[08Jan2025 22:17:31.341] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[08Jan2025 22:17:37.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 22:17:39.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 22:17:39.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
+[08Jan2025 22:18:10.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player 9cf532cf-f6a5-383f-9623-bc612c714b5b timed out
+[08Jan2025 22:18:10.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Reconnecting player EliseoPlays908
+[08Jan2025 22:18:10.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[08Jan2025 22:18:17.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 22:18:18.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 22:18:18.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
+[08Jan2025 22:21:12.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 moved too quickly! -7.45998512375408,-1.0625,-6.8520775980941835
+[08Jan2025 22:21:13.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 was kicked for floating too long!
+[08Jan2025 22:21:13.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Flying is not enabled on this server
+[08Jan2025 22:21:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[08Jan2025 22:21:13.457] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
+[08Jan2025 22:21:13.506] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
