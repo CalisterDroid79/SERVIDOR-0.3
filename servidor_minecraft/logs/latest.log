@@ -79,3 +79,13 @@
 [08Jan2025 18:40:12.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
 [08Jan2025 18:45:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> EliseoPlays908
 [08Jan2025 18:46:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [A Seedy Place]
+[08Jan2025 18:54:06.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[08Jan2025 18:54:06.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[08Jan2025 18:54:06.460] [Server thread/INFO] [voicechat/]: Disconnecting client EliseoPlays908
+[08Jan2025 18:54:11.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:45987] logged in with entity id 2374 at (255.29527561221312, 85.9375, -374.4766769304681)
+[08Jan2025 18:54:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[08Jan2025 18:54:12.308] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
+[08Jan2025 18:54:12.309] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[08Jan2025 18:54:13.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 18:54:14.190] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
+[08Jan2025 18:54:14.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
