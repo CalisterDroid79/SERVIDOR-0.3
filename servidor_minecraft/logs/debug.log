@@ -733,3 +733,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jan2025 22:46:07.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 9cf532cf-f6a5-383f-9623-bc612c714b5b
 [09Jan2025 22:46:08.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 9cf532cf-f6a5-383f-9623-bc612c714b5b
 [09Jan2025 22:46:08.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
+[09Jan2025 22:48:31.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/150, l='ServerLevel[world]', x=237.83, y=85.00, z=-428.30] died, message: 'Villager was slain by Zombie'
+[09Jan2025 22:48:37.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 22:48:37.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 22:53:37.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 22:53:37.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 22:56:07.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
