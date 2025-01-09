@@ -392,6 +392,7 @@
       "bread": "2025-01-05 23:30:29 +0000",
       "rotten_flesh": "2025-01-08 22:25:45 +0000",
       "salmon": "2025-01-08 22:33:55 +0000",
+      "golden_carrot": "2025-01-09 23:43:10 +0000",
       "carrot": "2025-01-08 00:02:52 +0000"
     },
     "done": false
@@ -2046,9 +2047,33 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-09 23:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-09 23:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-09 23:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-09 23:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-09 23:42:47 +0000"
     },
     "done": true
   },
