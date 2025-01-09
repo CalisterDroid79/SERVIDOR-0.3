@@ -78,3 +78,13 @@
 [09Jan2025 22:46:08.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player EliseoPlays908 (9cf532cf-f6a5-383f-9623-bc612c714b5b) successfully connected to voice chat
 [09Jan2025 22:48:31.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/150, l='ServerLevel[world]', x=237.83, y=85.00, z=-428.30] died, message: 'Villager was slain by Zombie'
 [09Jan2025 22:56:07.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[09Jan2025 23:01:42.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.86.167.12:49545] logged in with entity id 2433 at (403.91585171490493, 113.0, 133.6092686153195)
+[09Jan2025 23:01:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[09Jan2025 23:01:43.540] [Server thread/INFO] [voicechat/]: Received secret request of CalisterDroid79 (17)
+[09Jan2025 23:01:43.541] [Server thread/INFO] [voicechat/]: Sent secret to CalisterDroid79
+[09Jan2025 23:01:44.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[09Jan2025 23:01:45.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 3b88b66c-d514-38c7-afa6-797ded58eb0a
+[09Jan2025 23:01:45.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player CalisterDroid79 (3b88b66c-d514-38c7-afa6-797ded58eb0a) successfully connected to voice chat
+[09Jan2025 23:02:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Piglin
+[09Jan2025 23:02:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[09Jan2025 23:03:21.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Take Aim]
