@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-10 21:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-10 20:50:39 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 20:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-10 21:25:15 +0000"
     },
     "done": true
   },
@@ -572,6 +584,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-10 20:57:50 +0000",
+      "minecraft:spider": "2025-01-10 21:20:14 +0000",
       "minecraft:creeper": "2025-01-10 21:00:45 +0000",
       "minecraft:zombie": "2025-01-10 20:58:49 +0000"
     },
@@ -758,7 +771,8 @@
     "criteria": {
       "apple": "2025-01-10 20:29:26 +0000",
       "bread": "2025-01-10 20:36:28 +0000",
-      "rotten_flesh": "2025-01-10 20:59:26 +0000"
+      "rotten_flesh": "2025-01-10 20:59:26 +0000",
+      "golden_carrot": "2025-01-10 21:20:48 +0000"
     },
     "done": false
   },
