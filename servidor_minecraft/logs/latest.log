@@ -254,3 +254,4 @@
 [10Jan2025 22:14:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Best Friends Forever]
 [10Jan2025 22:16:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [What a Deal!]
 [10Jan2025 22:20:37.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [A Seedy Place]
+[10Jan2025 22:38:19.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1941, l='ServerLevel[world]', x=411.53, y=66.05, z=280.45] died, message: 'Villager drowned'
