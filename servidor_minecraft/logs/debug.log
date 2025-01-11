@@ -1137,3 +1137,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Jan2025 23:46:51.504] [Server thread/INFO] [voicechat/]: Disconnecting client CalisterDroid79
 [10Jan2025 23:48:00.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jan2025 23:48:00.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:53:00.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:53:00.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 23:58:00.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 23:58:00.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
