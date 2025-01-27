@@ -1,0 +1,49 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-26 23:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-01-26 23:58:28 +0000",
+      "minecraft:grove": "2025-01-26 23:46:33 +0000",
+      "minecraft:jagged_peaks": "2025-01-26 23:57:54 +0000",
+      "minecraft:forest": "2025-01-26 23:58:01 +0000",
+      "minecraft:plains": "2025-01-26 23:58:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-26 23:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-27 00:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-26 23:59:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-26 23:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-26 23:57:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3463
+}
