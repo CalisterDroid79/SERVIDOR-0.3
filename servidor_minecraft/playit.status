@@ -1,3424 +1,436 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1736705071057 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737937429123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705074122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937432220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705077190 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937435293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705080264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937438375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705083336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937441473 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705086407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937444580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705089474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937447670 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705092547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937450842 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705095622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937454257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705098683 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937457679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705101759 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937460794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705104834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937463895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705107904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937467027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705110987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937470112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705114459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937473189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705117545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937476311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705120609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937479429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705123682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937482515 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705126743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937485614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705129812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937488752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705132882 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937491891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705135986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937495001 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705139052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937498081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705142117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937501246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705145207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937504321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705148264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937507456 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705151337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937510627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705154412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937513758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705157481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937516880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705160539 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937519967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705163609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937523090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705166677 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937526227 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705169745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937529357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705172812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937532499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705175879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937536038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705178957 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937539171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705182036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937542311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705185130 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937545505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705188225 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937548632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705191290 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937551721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705194351 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937554858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705197444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937557936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705200510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937561071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705203591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937564158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705206685 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937567256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705209749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937570335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705212826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937573419 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705216288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937576609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705219375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937579958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705222441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937583081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705225955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937586215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705229362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937589367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705232823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937592504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705235926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937595617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705238998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937598687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705242068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937601780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705245147 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937605244 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705248214 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937608736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705251279 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937612205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705254357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937615936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705257446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937619054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705260529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937622142 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705263640 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937625210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705267142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937628355 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705270211 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937631486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705273277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937634809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705276393 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937638042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705279465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937641170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705282527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937644281 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705285595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937647407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705288696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937650539 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705291757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937653655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
 read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705294867 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705297936 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705301073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705304145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705307213 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705310304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705313380 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705316457 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705319538 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705322603 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705325670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705328743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705331828 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705334914 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705337972 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705341037 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705344116 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705347180 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705350244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705353623 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705356718 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705359785 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705362877 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705366664 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705369740 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705372860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705375965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705379045 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705382105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705385226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705388352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705391430 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705394764 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705397832 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705400911 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705403979 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705407051 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705410120 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705413555 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705416628 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705419706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705422772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705425848 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705428924 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705431997 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705435111 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705438188 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705441259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705444327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705447405 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705450483 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705453558 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705456630 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705459693 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705462764 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705466138 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705469197 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705472258 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705475340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705478427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705481592 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705484659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705487757 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705490829 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705493906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705496967 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705500024 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705503088 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705506159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705509259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705512319 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705515393 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705518683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705521745 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705524804 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705527888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705530960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705534027 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705537089 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705540146 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705543208 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705546268 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705549357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705552417 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705555485 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705558548 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705561611 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705564705 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705567759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705570817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705573874 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705576933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705580000 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705583073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705586169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705589231 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705592296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705595367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705598431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705601490 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705604557 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705607623 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705610696 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705613796 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705616875 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705619939 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705623029 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705626088 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705629143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705632213 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705635284 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705638384 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705641441 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705644513 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705647579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705650656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705653727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705656795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705659855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705662913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705665978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705669046 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705672106 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705675193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705678834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705681913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705684981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705688039 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705691115 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705694174 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705697259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705700334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705703394 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705706923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705709985 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705713045 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705716104 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705719181 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705722261 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705725753 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705728818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705732056 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705735118 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705738174 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705741242 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705744305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705747392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705751193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705754253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705757346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705760425 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705763882 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705766961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705770055 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705773144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705776223 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705779300 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705782366 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705786114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705789244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705792310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705795385 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705798482 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705801572 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705804635 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705807732 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705810797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705813937 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705817018 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705820112 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705823254 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705826309 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705829951 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705833011 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705836078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705839155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705842248 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705845314 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705848401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705851474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705854544 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705857613 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705860712 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705863771 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705866871 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705869935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705873008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705876088 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705879173 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705882260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705885333 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705888401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705891499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705894596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705897656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705900739 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705903807 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705906898 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705909963 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705913164 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705916279 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705919409 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705922488 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705925559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705928617 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705931680 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705934758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705937858 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705940923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705943994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705947059 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705950120 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705953195 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705956256 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705959322 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705962382 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705965451 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705968534 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705971605 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705974673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705977741 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705980814 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705983891 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705986950 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705990138 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705993202 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705996261 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736705999330 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706002397 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706005478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706008548 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706011610 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706014695 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706017759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706020832 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706023899 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706026979 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706030056 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706033125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706036601 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706040053 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706043235 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706046330 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706049425 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706052492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706055556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706058632 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706061714 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706064786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706067856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706070924 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706073991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706077612 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706080701 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706083770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706086834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706089924 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706093025 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706097020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706100081 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706103720 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706106793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706109877 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706112944 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706116048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706119114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706122176 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706125306 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706128402 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706131467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706134545 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706137621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706140712 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706143782 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706146875 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706149983 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706153050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706156175 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706159257 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706162359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706165420 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706168499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706171570 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706174648 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706177735 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706181076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706184144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706187209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706190289 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706193358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706196434 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706199525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706202596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706205711 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706208796 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706212442 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706215505 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706218578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706221869 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706224983 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706228039 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706231114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706234174 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706237240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706240326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706243406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706246538 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706249621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706252686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706255775 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706258856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706261923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706265061 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706268633 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706271704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706274819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706277905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706280969 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706284030 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706287126 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706290231 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706293327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706296783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706300465 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706304036 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706307103 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706310543 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706314169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706317270 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706320340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706323434 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706326692 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706329768 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706332844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706335906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706338967 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706342068 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706345140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706348210 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706351290 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706354386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706357453 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706360530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706363631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706366694 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706369762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706372857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706375926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706379001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706382064 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706385167 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706388223 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706391288 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706394359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706397449 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706400525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706403622 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706406697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706409774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706412843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706415919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706419063 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706422132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706425191 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706428264 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706431328 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706434406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706437476 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706440540 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706443628 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706446693 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706449801 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706452883 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706455959 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706459032 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706462194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706465249 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706468315 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706471377 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706474443 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706477509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706480580 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706483650 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706487155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706490583 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706493654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706497061 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706500133 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706503513 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706506584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706509651 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706512722 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706515789 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706518855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706521923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706525008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706528079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706531144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706534581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706537667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706540728 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706543795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706546908 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706549991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706553050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706556121 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706559182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706562264 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706565535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706568616 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706571681 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706574744 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706577847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706580922 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706583990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706587050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706590128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706593698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706596771 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706600094 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706603165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706606236 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706609301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706612406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706615509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706618580 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706621643 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706624709 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706627792 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706630855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706633984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706637450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706640783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706643855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706646955 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706650057 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706653727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706656790 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706660301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706663366 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706666440 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706669510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706672906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706675972 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706679042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706682623 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706685702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706688769 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706691847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706694921 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706698171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706701252 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706704334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706707404 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706710587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706713653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706716711 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706719786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706722862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706725965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706729043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706732119 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706735183 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706738241 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706741316 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706744388 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706747453 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706750533 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706753609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706756697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706759768 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706762845 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706765922 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706768988 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706772069 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706775128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706778189 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706781255 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706784329 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706787795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706790856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706793938 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706797043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706800114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706803249 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706806642 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706809698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706812817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706815900 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706819187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706822524 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706825610 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706828682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706831770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706834855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706837921 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706840991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706844064 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rule-singing.gl.at.ply.gg:1636 => 127.0.0.1:41622 (proto: Udp, port count: 1)
-read-thinkpad.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1736706847128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737937657099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
