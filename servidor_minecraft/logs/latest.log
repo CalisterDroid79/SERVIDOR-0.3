@@ -93,3 +93,5 @@
 [28Jan2025 20:55:40.127] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
 [28Jan2025 20:55:40.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
 [28Jan2025 21:39:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Take Aim]
+[28Jan2025 21:54:44.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=61, z=-424} BlockPos{x=-234, y=60, z=-424}
+[28Jan2025 21:55:57.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Best Friends Forever]
