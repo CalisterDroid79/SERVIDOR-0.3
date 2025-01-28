@@ -92,3 +92,4 @@
 [28Jan2025 20:55:40.124] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
 [28Jan2025 20:55:40.127] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
 [28Jan2025 20:55:40.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
+[28Jan2025 21:39:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Take Aim]
