@@ -116,3 +116,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 19:36:04.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
 [02Feb2025 19:36:05.281] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
 [02Feb2025 19:36:05.283] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
+[02Feb2025 19:47:10.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Not Today, Thank You]
+[02Feb2025 19:50:13.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=65, z=369} BlockPos{x=-215, y=64, z=368}
+[02Feb2025 19:50:15.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=65, z=369} BlockPos{x=-211, y=64, z=369}
+[02Feb2025 19:50:15.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=65, z=369} BlockPos{x=-211, y=64, z=369}
+[02Feb2025 19:50:15.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-211, y=65, z=369} BlockPos{x=-211, y=64, z=369}
+[02Feb2025 19:50:15.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=65, z=367} BlockPos{x=-211, y=64, z=369}
+[02Feb2025 19:50:15.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=65, z=367} BlockPos{x=-211, y=64, z=369}
