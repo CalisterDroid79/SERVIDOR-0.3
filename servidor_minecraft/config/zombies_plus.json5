@@ -2,9 +2,9 @@
 	// Use another resource pack for zombie textures? NOTE: Does not work for Brutes.
 	"zombieTextureOverride": false,
 	// Add details for Tissou Zombie Resource Pack? NOTE: Adds realistic zombie textures for Brutes and Cave Zombies only. Install the mod 'Entity Texture Features' for emissive eye textures. For other zombies, install Tissou's pack and set 'Zombie Texture Override' to true.
-	"tissouZombiePackDetails": false,
+	"tissouZombiePackDetails": true,
 	// Use better animations for zombies? Animations similar to Fresh Animations. NOTE: Applies to Brutes, Shriekers, and Crawlers only. For every other zombie, install 'Fresh Animations' resource-pack. If installed, Fresh Animations will override zombie animations.
-	"useBetterAnimations": false,
+	"useBetterAnimations": true,
 	// The range in which a Shrieker Zombie will alert other zombies. Has a min of 1 and a max of 1000
 	"shriekerZombieRange": 225,
 	// Configure spawn properties for each zombie type.
