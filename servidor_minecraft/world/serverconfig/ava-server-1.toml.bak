@@ -1,0 +1,144 @@
+#Range: 0.0 ~ 100.0
+m67_explosive_damage = 26.0
+#Range: 0.0 ~ 30.0
+m67_explosive_range = 3.0
+#-
+#-
+#Range: 0.0 ~ 50.0
+m116a1_flash_range = 5.0
+#Range: 0 ~ 200
+m116a1_flash_duration = 80
+#-
+#-
+#Range: 0.0 ~ 100.0
+mk3a2_explosive_damage = 26.0
+#Range: 0.0 ~ 50.0
+mk3a2_explosive_range = 2.0
+#Range: 0.0 ~ 30.0
+mk3a2_flash_range = 2.0
+#Range: 0 ~ 200
+mk3a2_flash_duration = 60
+#-
+#-
+#Range: 0.0 ~ 100.0
+m202_explosive_damage = 34.0
+#Range: 0.0 ~ 30.0
+m202_explosive_range = 6.0
+#-
+#-
+#Range: 0.0 ~ 100.0
+gm94_explosive_damage = 28.0
+#Range: 0.0 ~ 30.0
+gm94_explosive_range = 5.0
+#-
+#-
+is_ammo_kit_supplier_craftable = false
+explosion_destroys_entities = false
+#0: None, 1: Glass Material Only, 2: All Blocks, 3: Glass Material Only By C4
+#Range: 0 ~ 3
+explosion_destruction_type = 0
+#Multiplier for the damage caused by all ava damage source
+#Range: 0.0 ~ 40.0
+damage_multiplier_against_players = 1.0
+#Range: 0.0 ~ 40.0
+damage_multiplier_against_others = 1.0
+should_guards_spawn = false
+#Range: 0 ~ 100
+guards_spawn_chance = 50
+#-
+#-
+melee_destroyable_blocks = ""
+#-
+#-
+#https://docs.google.com/document/d/1950eqPMlePlyoeaFH1_MRRBRw5nishlXjR3h9FkDIhE/edit?usp=sharing
+#Whether guns like m24 and mosin-nagant can be used
+enable_snipers = true
+#Whether guns like sr-25 can be used (Deprecated, use command /ava setPlayMode instead!!!)
+enable_semi_snipers = true
+#Whether guns like mk20 can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_rifles = true
+#Whether guns like mp5k and x95r can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_sub_machineguns = true
+#Whether guns like remington870 can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_shotguns = true
+#Whether guns like p226 can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_pistols = true
+#Whether guns like Mauser C96 can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_auto_pistols = true
+#Whether projectiles like m67 and m18 can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_projectiles = true
+#Whether special weapons like gm94 and m202 can be used (Deprecated, use command /ava setPlayMode  instead!!!)
+enable_special_weapons = true
+#-
+#-
+#-
+#-
+#-
+#Set both to true to enable competitive mode, please make sure you know what it isbefore setting it to true
+enable_competitive_mode = false
+enable_competitive_mode_confirm = false
+preset_with_parachute = false
+#-
+#-
+#-
+#Disabled items. Format: m18_toxic, m202, gm94
+disabled_weapons = ""
+#-
+#-
+#-
+#Range: 0.0 ~ 1.0
+field_knife_movement_speed_bonus = 0.0035
+#-
+#-
+#Whether there should be a delay while drawing a weapon
+weapon_drawing_delay = true
+#-
+#-
+team_spawn_restriction = true
+#-
+#-
+#Range: -1 ~ 75
+a_site_plant_radius = 4
+#Range: -1 ~ 75
+a_site_plant_height = 1
+#Range: -1 ~ 75
+b_site_plant_radius = 4
+#Range: -1 ~ 75
+b_site_plant_height = 1
+#-
+#-
+#Range: > 0
+binocular_use_cd = 60
+#-
+#-
+#If the mastery system for guns is disabled, existing mastery will not be affected
+disable_mastery_system = false
+#-
+#-
+#Whether restricted movement from AVA should be applied
+restricted_movement = false
+#Whether only 1 primary weapon is allowed for preset
+preset_single_primary_weapon = false
+#Whether the attachments are free to install
+free_attachments = false
+#The maximum number of the same type of entity can exist in a world, -1 indicates infinity as default
+#Range: > -1
+max_entity_type = -1
+#Should A.V.A Structures generate
+structure_generates = true
+#Expecting max player, this will effect the count of entity deployed by the ava deploy command, for example expecting 4 but there's only 2 players, then count is / 2. Set to -1 to disable difficulty scaling
+#Range: > 0
+expecting_player_count = -1
+#Headshot damage multiplier
+#Range: 0.0 ~ 100.0
+headshot_damage_scale = 2.5
+#Are clients trusted... ignores server-side firerate checks, allows better experiences on clients
+"Are remote players trusted" = true
+#Whether firerate is stable, if enabled the firerate is stabled but may feel slower on some weapons
+stable_firerate = false
+#Does bullet shoot through walls
+do_bullet_penetrate_walls = true
+#If client can choose to show entity status, 0 for showing none, 1 for showing creatures, 2 for showing ally, 3 for showing all
+#Range: 0 ~ 3
+can_client_see_entity_status = 3
+
