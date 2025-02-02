@@ -112,3 +112,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 19:22:43.270] [Server thread/INFO] [ava/]: Finish loading loading images on server
 [02Feb2025 19:22:43.271] [Server thread/WARN] [voicechat/]: Running in offline mode - Voice chat encryption is not secure!
 [02Feb2025 19:22:43.293] [VoiceChatServerThread/INFO] [voicechat/]: Server started at port 24454
+[02Feb2025 19:36:04.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:47685] logged in with entity id 89 at (-220.61433683219303, 65.0, 369.6573501747741)
+[02Feb2025 19:36:04.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[02Feb2025 19:36:05.281] [Server thread/INFO] [voicechat/]: Received secret request of EliseoPlays908 (17)
+[02Feb2025 19:36:05.283] [Server thread/INFO] [voicechat/]: Sent secret to EliseoPlays908
