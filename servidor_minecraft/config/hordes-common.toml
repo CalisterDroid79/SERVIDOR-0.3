@@ -45,11 +45,11 @@
 	#Set to false to completely disable mob infection and anything related to it.
 	enableMobInfection = true
 	#Can villagers be infected.
-	infectVillagers = true
+	infectVillagers = false
 	#Chance for a villager to get infected, a value of 1 or higher makes it guaranteed
 	villagerInfectChance = 0.85
 	#Can players be infected.
-	infectPlayers = true
+	infectPlayers = false
 	#Whether later levels of infected should slightly slow movement speed? 
 	infectSlowness = true
 	#Whether later levels of infected should deplete hunger quicker? 
