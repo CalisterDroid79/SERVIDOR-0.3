@@ -794,3 +794,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23May2025 23:42:37.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Monster Hunter]
 [23May2025 23:46:32.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23May2025 23:46:32.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 23:51:32.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 23:51:32.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 23:52:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Sweet Dreams]
+[23May2025 23:52:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Sweet Dreams]
+[23May2025 23:56:32.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 23:56:32.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
