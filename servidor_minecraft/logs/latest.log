@@ -188,3 +188,10 @@
 [23May2025 23:01:30.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (97.295s)! For help, type "help"
 [23May2025 23:01:30.253] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [23May2025 23:01:32.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[23May2025 23:23:06.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:46437] logged in with entity id 389 at (2.5, 78.0, -1.5)
+[23May2025 23:23:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[23May2025 23:23:28.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:37421] logged in with entity id 568 at (9.5, 70.0, -3.5)
+[23May2025 23:23:29.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[23May2025 23:27:43.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Stone Age]
+[23May2025 23:27:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Getting an Upgrade]
+[23May2025 23:28:15.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Stone Age]
