@@ -644,3 +644,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24May2025 22:00:57.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 22:00:57.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24May2025 22:02:58.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzzzzzz
+[24May2025 22:05:27.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1224, y=61, z=-936} BlockPos{x=1224, y=62, z=-936}
+[24May2025 22:05:28.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1224, y=61, z=-937} BlockPos{x=1224, y=62, z=-937}
+[24May2025 22:05:57.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 22:05:57.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 22:10:57.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 22:10:57.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 22:14:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[24May2025 22:15:57.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 22:15:57.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 22:20:57.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 22:20:57.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 22:22:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Iron Golem
+[24May2025 22:22:06.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 0.0,-10.572894103966512,0.0
+[24May2025 22:22:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[24May2025 22:22:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
