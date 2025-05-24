@@ -43,3 +43,7 @@
 [24May2025 01:03:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Hot Stuff]
 [24May2025 01:04:02.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
 [24May2025 01:04:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[24May2025 01:19:08.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:40979] logged in with entity id 27649 at (1222.6061092426557, 63.0, -910.9472319010764)
+[24May2025 01:19:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[24May2025 01:24:49.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18420, l='ServerLevel[world]', x=1294.54, y=66.00, z=-865.31] died, message: 'Villager was slain by Zombie'
+[24May2025 01:24:53.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18389, l='ServerLevel[world]', x=1295.30, y=54.00, z=-865.51] died, message: 'Villager was slain by Zombie Villager'
