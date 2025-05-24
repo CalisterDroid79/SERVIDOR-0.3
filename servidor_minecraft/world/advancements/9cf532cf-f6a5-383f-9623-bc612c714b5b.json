@@ -1027,7 +1027,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:calico": "2025-05-24 00:38:07 +0000"
+      "minecraft:calico": "2025-05-24 00:38:07 +0000",
+      "minecraft:persian": "2025-05-24 03:15:22 +0000"
     },
     "done": false
   },
@@ -1460,6 +1461,30 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-24 02:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-05-24 03:16:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-24 03:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-24 03:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-24 03:16:04 +0000"
     },
     "done": true
   },
