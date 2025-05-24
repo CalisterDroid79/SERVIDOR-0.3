@@ -64,3 +64,7 @@
 [24May2025 17:10:19.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3548ms or 70 ticks behind
 [24May2025 17:12:26.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
 [24May2025 17:12:26.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[24May2025 17:13:17.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:34273] logged in with entity id 690 at (1243.0912538447888, 62.0, -930.3000000119209)
+[24May2025 17:13:17.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[24May2025 17:22:34.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[24May2025 17:22:34.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
