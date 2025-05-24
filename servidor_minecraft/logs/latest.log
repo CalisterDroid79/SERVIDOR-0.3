@@ -60,3 +60,12 @@
 [24May2025 01:59:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [24May2025 02:10:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [24May2025 02:11:38.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Not Today, Thank You]
+[24May2025 02:20:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Iron Golem
+[24May2025 02:21:40.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[24May2025 02:21:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[24May2025 02:22:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made EliseoPlays908 a server operator
+[24May2025 02:22:30.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ugotry778 a server operator
+[24May2025 02:22:52.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:33659] logged in with entity id 39345 at (1240.2245284939738, 63.0, -933.2833579003541)
+[24May2025 02:22:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[24May2025 02:23:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[24May2025 02:23:27.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
