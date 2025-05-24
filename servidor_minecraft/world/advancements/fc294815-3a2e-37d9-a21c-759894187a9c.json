@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-24 00:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-24 00:07:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-23 23:24:00 +0000"
@@ -131,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-24 00:07:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-23 23:28:15 +0000"
@@ -194,6 +212,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-23 23:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-24 00:07:47 +0000"
     },
     "done": true
   },
@@ -278,6 +302,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-05-23 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-24 00:07:47 +0000"
     },
     "done": true
   },
@@ -505,6 +535,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-24 00:20:12 +0000",
       "minecraft:river": "2025-05-23 23:45:44 +0000",
       "minecraft:dripstone_caves": "2025-05-23 23:53:45 +0000",
       "minecraft:forest": "2025-05-23 23:23:29 +0000",
@@ -522,6 +553,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-23 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-24 00:25:12 +0000"
     },
     "done": true
   },
@@ -587,7 +624,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-05-23 23:33:54 +0000"
+      "cooked_mutton": "2025-05-23 23:33:54 +0000",
+      "cooked_beef": "2025-05-23 23:57:52 +0000",
+      "rotten_flesh": "2025-05-23 23:57:17 +0000"
     },
     "done": false
   },
@@ -687,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 23:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-23 23:24:57 +0000"
@@ -708,6 +753,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-23 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-24 00:08:13 +0000"
     },
     "done": true
   },
