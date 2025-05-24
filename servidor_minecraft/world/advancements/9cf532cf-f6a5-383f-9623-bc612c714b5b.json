@@ -1464,12 +1464,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cat": "2025-05-24 03:16:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-24 03:08:59 +0000"
@@ -1482,9 +1476,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-05-24 03:16:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-24 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-24 17:10:52 +0000"
     },
     "done": true
   },

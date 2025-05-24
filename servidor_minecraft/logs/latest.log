@@ -1,86 +1,66 @@
-[24May2025 00:00:31.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Acquire Hardware]
-[24May2025 00:03:35.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ugotry778> ZZZZZZZZZZZZZZZZZZ
-[24May2025 00:04:50.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
-[24May2025 00:04:50.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
-[24May2025 00:04:55.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:35735] logged in with entity id 8564 at (46.0109121699375, 68.0, -797.9306390229318)
-[24May2025 00:04:55.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
-[24May2025 00:05:49.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=-982} BlockPos{x=38, y=62, z=-982}
-[24May2025 00:06:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * ugotry778 se golpeo muy fuerte
-[24May2025 00:06:47.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=68, z=-1016} BlockPos{x=-110, y=66, z=-1017}
-[24May2025 00:06:47.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=68, z=-1017} BlockPos{x=-111, y=66, z=-1018}
-[24May2025 00:06:47.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=66, z=-1019} BlockPos{x=-111, y=66, z=-1019}
-[24May2025 00:06:47.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=66, z=-1019} BlockPos{x=-111, y=66, z=-1019}
-[24May2025 00:06:47.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=68, z=-1019} BlockPos{x=-114, y=66, z=-1019}
-[24May2025 00:06:47.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=68, z=-1019} BlockPos{x=-115, y=66, z=-1020}
-[24May2025 00:07:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Hot Stuff]
-[24May2025 00:25:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [A Seedy Place]
-[24May2025 00:26:13.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzz
-[24May2025 00:26:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -zzzzzzzzzzzzzzzzzzzzzzz
-[24May2025 00:26:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> t
-[24May2025 00:26:29.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzzzzzzz
-[24May2025 00:26:31.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzzzzzzzzzzzzzzz
-[24May2025 00:26:37.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ugotry778> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZzzzzzzzzzZZZZzZZZzZzz
-[24May2025 00:28:15.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
-[24May2025 00:28:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
-[24May2025 00:30:38.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:57863] logged in with entity id 18181 at (1321.5824489872748, 62.9375, -925.5094756284825)
-[24May2025 00:30:38.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
-[24May2025 00:31:08.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
-[24May2025 00:31:08.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
-[24May2025 00:31:14.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
-[24May2025 00:31:14.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
-[24May2025 00:31:19.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:37637] logged in with entity id 18312 at (1305.6196179945691, 68.0, -918.7219232353348)
-[24May2025 00:31:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
-[24May2025 00:35:34.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:53697] logged in with entity id 19638 at (1308.3926953634136, 67.9375, -918.318849414344)
-[24May2025 00:35:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
-[24May2025 00:37:27.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -ZZZZZZZZ
-[24May2025 00:38:07.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Best Friends Forever]
-[24May2025 00:42:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Acquire Hardware]
-[24May2025 00:42:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Isn't It Iron Pick]
-[24May2025 00:50:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> D
-[24May2025 00:50:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -ZZZZZZZ
-[24May2025 00:50:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZ
-[24May2025 00:53:12.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [The Parrots and the Bats]
-[24May2025 01:03:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Hot Stuff]
-[24May2025 01:04:02.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
-[24May2025 01:04:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
-[24May2025 01:19:08.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:40979] logged in with entity id 27649 at (1222.6061092426557, 63.0, -910.9472319010764)
-[24May2025 01:19:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
-[24May2025 01:24:49.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18420, l='ServerLevel[world]', x=1294.54, y=66.00, z=-865.31] died, message: 'Villager was slain by Zombie'
-[24May2025 01:24:53.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18389, l='ServerLevel[world]', x=1295.30, y=54.00, z=-865.51] died, message: 'Villager was slain by Zombie Villager'
-[24May2025 01:37:09.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZ
-[24May2025 01:37:11.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:37:18.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Not Today, Thank You]
-[24May2025 01:59:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:59:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:59:03.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:59:06.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:59:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:59:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Monster Hunter]
-[24May2025 01:59:21.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 01:59:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 02:10:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[24May2025 02:11:38.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Not Today, Thank You]
-[24May2025 02:20:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Iron Golem
-[24May2025 02:21:40.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
-[24May2025 02:21:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
-[24May2025 02:22:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made EliseoPlays908 a server operator
-[24May2025 02:22:30.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ugotry778 a server operator
-[24May2025 02:22:52.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:33659] logged in with entity id 39345 at (1240.2245284939738, 63.0, -933.2833579003541)
-[24May2025 02:22:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
-[24May2025 02:23:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
-[24May2025 02:23:27.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
-[24May2025 02:31:21.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Suit Up]
-[24May2025 02:32:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Suit Up]
-[24May2025 02:40:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was shot by Skeleton
-[24May2025 02:40:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
-[24May2025 02:54:59.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
-[24May2025 02:54:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
-[24May2025 02:55:15.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@634a9bf7[id=<null>,name=EliseoPlays908,properties={},legacy=false] (/127.227.101.24:39289) lost connection: Disconnected
-[24May2025 02:55:53.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b38c800[id=<null>,name=EliseoPlays908,properties={},legacy=false] (/127.227.101.24:39011) lost connection: Disconnected
-[24May2025 02:55:58.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:53403] logged in with entity id 44983 at (1239.419557717386, 62.0, -933.171731348523)
-[24May2025 02:55:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
-[24May2025 03:05:20.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
-[24May2025 03:05:20.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
-[24May2025 03:16:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [The Parrots and the Bats]
-[24May2025 03:17:25.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
-[24May2025 03:17:25.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[24May2025 17:02:49.897] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24May2025 17:02:49.908] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[24May2025 17:02:50.269] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24May2025 17:02:50.440] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24May2025 17:02:51.045] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 17:02:51.058] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 17:02:51.063] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 17:02:51.068] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 17:02:51.414] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[24May2025 17:02:55.783] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24May2025 17:03:13.975] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24May2025 17:03:13.982] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24May2025 17:03:15.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24May2025 17:03:15.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24May2025 17:03:17.456] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24May2025 17:03:18.697] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[24May2025 17:03:18.698] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[24May2025 17:03:21.618] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[24May2025 17:03:21.822] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[24May2025 17:03:22.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24May2025 17:03:22.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24May2025 17:03:22.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24May2025 17:03:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24May2025 17:03:22.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24May2025 17:03:22.922] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24May2025 17:03:23.051] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24May2025 17:03:23.054] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24May2025 17:03:23.055] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24May2025 17:03:23.055] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24May2025 17:03:23.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24May2025 17:03:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24May2025 17:03:35.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.942] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.944] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.948] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.951] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.954] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.955] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.963] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.967] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.970] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:35.974] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:36.254] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:36.946] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:37.543] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:37.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:38.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:39.018] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:39.260] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:39.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:40.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:40.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:41.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:41.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:42.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:42.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:43.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 17:03:43.920] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13668 ms
+[24May2025 17:03:43.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.844s)! For help, type "help"
+[24May2025 17:03:43.943] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24May2025 17:10:15.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:55837] logged in with entity id 100 at (1239.185001842094, 62.9375, -927.0727449243144)
+[24May2025 17:10:15.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[24May2025 17:10:19.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3548ms or 70 ticks behind
+[24May2025 17:12:26.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[24May2025 17:12:26.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
