@@ -696,3 +696,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24May2025 23:14:42.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
 [24May2025 23:14:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
 [24May2025 23:14:42.157] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 23:15:59.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 23:15:59.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 23:20:59.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 23:20:59.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
