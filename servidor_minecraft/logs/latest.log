@@ -22,3 +22,15 @@
 [24May2025 00:26:37.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ugotry778> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZzzzzzzzzzZZZZzZZZzZzz
 [24May2025 00:28:15.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
 [24May2025 00:28:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[24May2025 00:30:38.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:57863] logged in with entity id 18181 at (1321.5824489872748, 62.9375, -925.5094756284825)
+[24May2025 00:30:38.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[24May2025 00:31:08.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[24May2025 00:31:08.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[24May2025 00:31:14.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[24May2025 00:31:14.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[24May2025 00:31:19.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:37637] logged in with entity id 18312 at (1305.6196179945691, 68.0, -918.7219232353348)
+[24May2025 00:31:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[24May2025 00:35:34.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:53697] logged in with entity id 19638 at (1308.3926953634136, 67.9375, -918.318849414344)
+[24May2025 00:35:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[24May2025 00:37:27.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -ZZZZZZZZ
+[24May2025 00:38:07.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Best Friends Forever]
