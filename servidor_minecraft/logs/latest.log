@@ -74,3 +74,9 @@
 [24May2025 22:22:06.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 0.0,-10.572894103966512,0.0
 [24May2025 22:22:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
 [24May2025 22:22:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[24May2025 22:25:08.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[24May2025 22:32:15.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! -0.14466600112905326,-10.572894103966533,-0.0325903641989953
+[24May2025 22:32:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was blown up by Creeper
+[24May2025 22:32:22.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 0.0,-11.207870780463566,0.0
+[24May2025 22:32:27.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[24May2025 22:32:38.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
