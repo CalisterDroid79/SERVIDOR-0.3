@@ -87,3 +87,7 @@
 [24May2025 22:48:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Diamonds!]
 [24May2025 22:48:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Diamonds!]
 [24May2025 22:58:45.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[24May2025 23:13:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Ice Bucket Challenge]
+[24May2025 23:14:42.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[24May2025 23:14:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[24May2025 23:14:42.157] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

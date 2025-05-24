@@ -688,3 +688,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24May2025 22:58:45.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
 [24May2025 23:00:59.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 23:00:59.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 23:05:59.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 23:05:59.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 23:10:59.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 23:10:59.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 23:13:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Ice Bucket Challenge]
+[24May2025 23:14:42.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[24May2025 23:14:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[24May2025 23:14:42.157] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
