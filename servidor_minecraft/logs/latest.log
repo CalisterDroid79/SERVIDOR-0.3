@@ -70,3 +70,4 @@
 [24May2025 17:22:34.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
 [24May2025 17:23:33.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:35183] logged in with entity id 2522 at (1245.699999988079, 56.0, -931.3000000119209)
 [24May2025 17:23:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[24May2025 17:56:32.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/2535, l='ServerLevel[world]', x=1237.50, y=63.00, z=-918.50] died, message: 'Cleric was shot by Skeleton'

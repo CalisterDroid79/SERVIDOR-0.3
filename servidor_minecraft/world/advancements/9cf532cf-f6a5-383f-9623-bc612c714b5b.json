@@ -1494,5 +1494,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-24 17:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-24 17:56:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
