@@ -91,3 +91,11 @@
 [24May2025 23:14:42.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
 [24May2025 23:14:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
 [24May2025 23:14:42.157] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 23:30:39.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:53497] logged in with entity id 20090 at (1257.300000011921, -42.0, -1008.8272767849478)
+[24May2025 23:30:39.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[24May2025 23:31:10.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[24May2025 23:32:25.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [We Need to Go Deeper]
+[24May2025 23:32:27.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5300ms or 106 ticks behind
+[24May2025 23:32:33.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [We Need to Go Deeper]
+[24May2025 23:35:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[24May2025 23:35:35.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [What a Deal!]
