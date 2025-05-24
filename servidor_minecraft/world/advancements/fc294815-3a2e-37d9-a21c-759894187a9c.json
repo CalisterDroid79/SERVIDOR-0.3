@@ -1009,15 +1009,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
+      "has_bone_meal": "2025-05-24 01:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_smooth_stone": "2025-05-24 01:48:36 +0000"
+      "has_bone_meal": "2025-05-24 01:37:32 +0000"
     },
     "done": true
   },
@@ -1027,15 +1027,84 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-24 01:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-24 01:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-24 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-24 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-24 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-24 02:12:38 +0000",
+      "minecraft:spider": "2025-05-24 02:53:27 +0000",
+      "minecraft:zombie": "2025-05-24 02:07:38 +0000",
+      "minecraft:drowned": "2025-05-24 01:59:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-24 01:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-24 02:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-24 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-24 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-24 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "iron_helmet": "2025-05-24 02:32:50 +0000"
+      "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
     },
     "done": true
   },
@@ -1051,27 +1120,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-24 01:43:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_helmet": "2025-05-24 02:32:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-05-24 02:11:38 +0000"
     },
     "done": true
   },
@@ -1093,45 +1144,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-05-24 02:13:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-24 01:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-24 01:43:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-05-24 02:53:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-05-24 02:53:28 +0000"
     },
     "done": true
   },
@@ -1153,48 +1174,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-05-24 02:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-05-24 02:12:38 +0000",
-      "minecraft:spider": "2025-05-24 02:53:27 +0000",
-      "minecraft:zombie": "2025-05-24 02:07:38 +0000",
-      "minecraft:drowned": "2025-05-24 01:59:19 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-05-24 02:13:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-05-24 02:23:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-05-24 02:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-05-24 02:12:40 +0000"
     },
     "done": true
   },
@@ -1204,21 +1186,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_helmet": "2025-05-24 02:32:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:drowned": "2025-05-24 01:59:19 +0000"
     },
     "done": true
   },
@@ -1228,21 +1198,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-05-24 02:53:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-24 01:48:36 +0000"
     },
     "done": true
   },
@@ -1258,27 +1216,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-24 01:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-05-24 02:53:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 02:17:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_bone_meal": "2025-05-24 01:37:32 +0000"
+      "has_poppy": "2025-05-24 02:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-24 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-24 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-24 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-24 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-24 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-24 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-24 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-24 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-24 02:53:28 +0000"
     },
     "done": true
   },
