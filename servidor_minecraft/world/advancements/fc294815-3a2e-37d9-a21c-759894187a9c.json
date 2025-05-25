@@ -960,7 +960,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2025-05-24 00:53:12 +0000"
+      "minecraft:sheep": "2025-05-24 00:53:12 +0000",
+      "minecraft:cow": "2025-05-25 00:35:51 +0000"
     },
     "done": false
   },
@@ -1671,21 +1672,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-05-25 00:10:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-25 00:03:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 00:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-25 00:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-25 00:32:42 +0000"
     },
     "done": true
   },

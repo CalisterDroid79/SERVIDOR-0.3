@@ -976,3 +976,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25May2025 00:15:53.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
 [25May2025 00:16:05.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25May2025 00:16:05.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:16:51.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzzzzzzzzz
+[25May2025 00:16:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[25May2025 00:17:13.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[25May2025 00:17:45.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> qwqaqaqaqaqaqaqaqaqaqqaqaqaqaq
+[25May2025 00:17:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:17:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:17:55.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:17:58.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> duerm,e
+[25May2025 00:18:03.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duermeeee
+[25May2025 00:18:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:10.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:12.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:15.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:16.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> -duerme
+[25May2025 00:18:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 drowned
+[25May2025 00:19:13.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[25May2025 00:19:13.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[25May2025 00:19:24.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[25May2025 00:19:24.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[25May2025 00:19:24.357] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[25May2025 00:19:24.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:49627] logged in with entity id 30582 at (1202.920335225507, 53.0, -908.3000000119209)
+[25May2025 00:19:24.418] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@1dd00833 into net.minecraft.network.Connection@1eb6d7c7
+[25May2025 00:19:24.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[25May2025 00:19:50.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 0.0,-21.933748032545793,0.0
+[25May2025 00:19:50.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 fell out of the world
+[25May2025 00:19:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:20:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:20:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:21:05.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:21:05.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:22:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:26:05.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:26:05.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:28:55.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 9.135201683851847,0.0,-4.42599577906924
+[25May2025 00:30:21.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:31:05.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:31:05.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:35:20.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Take Aim]
+[25May2025 00:35:23.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Voluntary Exile]
+[25May2025 00:36:05.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:36:05.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:36:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
+[25May2025 00:36:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]

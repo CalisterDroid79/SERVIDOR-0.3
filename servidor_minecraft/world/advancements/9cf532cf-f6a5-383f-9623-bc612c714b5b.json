@@ -12,6 +12,7 @@
       "minecraft:dripstone_caves": "2025-05-23 23:52:24 +0000",
       "minecraft:forest": "2025-05-23 23:23:08 +0000",
       "minecraft:meadow": "2025-05-23 23:50:01 +0000",
+      "minecraft:savanna": "2025-05-25 00:34:09 +0000",
       "minecraft:plains": "2025-05-23 23:48:14 +0000"
     },
     "done": false
@@ -561,6 +562,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-25 00:35:23 +0000",
       "minecraft:skeleton": "2025-05-23 23:42:37 +0000",
       "minecraft:spider": "2025-05-24 22:51:32 +0000",
       "minecraft:creeper": "2025-05-24 22:52:03 +0000",
@@ -1487,7 +1489,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2025-05-24 03:16:04 +0000"
+      "minecraft:cat": "2025-05-24 03:16:04 +0000",
+      "minecraft:chicken": "2025-05-25 00:34:37 +0000"
     },
     "done": false
   },
@@ -1986,6 +1989,72 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-05-24 23:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-25 00:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-25 00:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:30:57 +0000"
     },
     "done": true
   },
