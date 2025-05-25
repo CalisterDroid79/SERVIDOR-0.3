@@ -406,6 +406,7 @@
       "cooked_porkchop": "2025-05-25 20:02:43 +0000",
       "cooked_mutton": "2025-05-25 21:53:27 +0000",
       "sweet_berries": "2025-05-25 19:35:33 +0000",
+      "baked_potato": "2025-05-25 22:40:09 +0000",
       "porkchop": "2025-05-25 19:43:45 +0000",
       "apple": "2025-05-25 20:29:54 +0000",
       "mutton": "2025-05-25 20:51:18 +0000",
@@ -1335,6 +1336,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-25 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-25 22:40:03 +0000"
     },
     "done": true
   },

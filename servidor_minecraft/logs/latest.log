@@ -254,3 +254,10 @@
 [25May2025 22:21:49.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:46497] logged in with entity id 36443 at (270.4566068491867, 66.0, 1514.474105566783)
 [25May2025 22:21:49.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
 [25May2025 22:37:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> a
+[25May2025 22:42:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported ugotry778 to EliseoPlays908]
+[25May2025 22:42:59.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported ugotry778 to EliseoPlays908]
+[25May2025 22:48:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! -8.322298276961476,1.252203340253729,5.578005616220253
+[25May2025 22:50:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to ugotry778]
+[25May2025 22:51:44.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 22:57:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported EliseoPlays908 to ugotry778]
+[25May2025 22:58:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Monster Hunter]
