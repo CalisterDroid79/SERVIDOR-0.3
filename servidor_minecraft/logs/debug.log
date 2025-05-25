@@ -1212,3 +1212,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25May2025 22:58:20.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25May2025 22:58:20.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 22:58:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Monster Hunter]
+[25May2025 23:03:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to ugotry778]
+[25May2025 23:03:20.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 23:03:20.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 23:06:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was blown up by Creeper
+[25May2025 23:07:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[25May2025 23:08:20.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 23:08:20.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
