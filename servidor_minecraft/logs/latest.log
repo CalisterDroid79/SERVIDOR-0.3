@@ -266,3 +266,10 @@
 [25May2025 23:07:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
 [25May2025 23:18:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Suit Up]
 [25May2025 23:20:05.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to ugotry778]
+[25May2025 23:22:34.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by EliseoPlays908
+[25May2025 23:28:24.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 0.0,-11.19886200217772,0.0
+[25May2025 23:28:38.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 23:28:43.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 23:29:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Acquire Hardware]
+[25May2025 23:29:53.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[25May2025 23:29:53.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
