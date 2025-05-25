@@ -227,3 +227,29 @@
 [25May2025 20:50:17.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=67, z=1550} BlockPos{x=236, y=66, z=1548}
 [25May2025 21:33:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [What a Deal!]
 [25May2025 21:36:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [The Parrots and the Bats]
+[25May2025 21:52:32.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:47499] logged in with entity id 30665 at (55.5, 136.0, 33.5)
+[25May2025 21:52:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[25May2025 21:52:56.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 21:54:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [A Seedy Place]
+[25May2025 21:55:50.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported ugotry778 to EliseoPlays908]
+[25May2025 21:57:48.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[25May2025 21:57:48.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[25May2025 21:59:34.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c19e80b[id=<null>,name=EliseoPlays908,properties={},legacy=false] (/127.227.101.24:57403) lost connection: Disconnected
+[25May2025 21:59:52.384] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a70e022[id=<null>,name=EliseoPlays908,properties={},legacy=false] (/127.227.101.24:38687) lost connection: Disconnected
+[25May2025 22:00:32.387] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6eb22b6f[id=<null>,name=EliseoPlays908,properties={},legacy=false] (/127.227.101.24:59775) lost connection: Disconnected
+[25May2025 22:00:38.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:54685] logged in with entity id 32368 at (250.04256473248287, 64.0, 1519.8156200871774)
+[25May2025 22:00:38.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[25May2025 22:00:47.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Sweet Dreams]
+[25May2025 22:01:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ugotry778> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[25May2025 22:06:01.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Isn't It Iron Pick]
+[25May2025 22:07:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Stone Age]
+[25May2025 22:08:24.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Getting an Upgrade]
+[25May2025 22:08:33.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[25May2025 22:08:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[25May2025 22:10:17.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:40179] logged in with entity id 34205 at (248.42593332152117, 63.0, 1529.1539619784512)
+[25May2025 22:10:17.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[25May2025 22:13:12.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported ugotry778 to EliseoPlays908]
+[25May2025 22:18:56.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[25May2025 22:18:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[25May2025 22:21:49.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:46497] logged in with entity id 36443 at (270.4566068491867, 66.0, 1514.474105566783)
+[25May2025 22:21:49.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
