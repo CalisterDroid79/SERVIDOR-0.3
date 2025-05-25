@@ -201,3 +201,9 @@
 [25May2025 19:03:13.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (107.510s)! For help, type "help"
 [25May2025 19:03:13.476] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [25May2025 19:03:15.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25May2025 19:26:32.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:41963] logged in with entity id 459 at (57.5, 120.0, 22.5)
+[25May2025 19:26:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[25May2025 19:27:05.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=110, z=21} BlockPos{x=78, y=108, z=21}
+[25May2025 19:32:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Stone Age]
+[25May2025 19:32:59.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Getting an Upgrade]
+[25May2025 19:35:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Monster Hunter]
