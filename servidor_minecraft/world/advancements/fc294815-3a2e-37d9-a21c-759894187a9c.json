@@ -1063,6 +1063,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-25 00:36:48 +0000",
       "minecraft:skeleton": "2025-05-24 02:12:38 +0000",
       "minecraft:magma_cube": "2025-05-24 23:33:53 +0000",
       "minecraft:spider": "2025-05-24 02:53:27 +0000",
@@ -1693,6 +1694,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-25 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-25 00:36:48 +0000"
     },
     "done": true
   },

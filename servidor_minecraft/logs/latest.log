@@ -53,3 +53,8 @@
 [25May2025 00:35:23.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Voluntary Exile]
 [25May2025 00:36:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
 [25May2025 00:36:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:36:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Voluntary Exile]
+[25May2025 00:37:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
+[25May2025 00:37:49.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/21205, l='ServerLevel[world]', x=1239.66, y=60.42, z=-933.30] died, message: 'Fletcher was slain by Vindicator'
+[25May2025 00:37:50.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21207, l='ServerLevel[world]', x=1259.95, y=64.00, z=-932.54] died, message: 'Cleric was slain by Vindicator'
+[25May2025 00:37:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
