@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-25 20:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-25 20:05:28 +0000"
@@ -644,6 +650,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-25 19:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-25 20:49:44 +0000"
     },
     "done": true
   },
@@ -835,6 +847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-25 20:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 19:57:20 +0000"
@@ -856,6 +874,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-25 19:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-25 20:53:43 +0000"
     },
     "done": true
   },
@@ -1024,6 +1048,7 @@
       "sweet_berries": "2025-05-25 19:35:33 +0000",
       "porkchop": "2025-05-25 19:43:45 +0000",
       "apple": "2025-05-25 20:29:54 +0000",
+      "mutton": "2025-05-25 20:51:18 +0000",
       "rotten_flesh": "2025-05-25 19:38:37 +0000"
     },
     "done": false
@@ -1223,6 +1248,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 19:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-25 20:49:44 +0000"
     },
     "done": true
   },
