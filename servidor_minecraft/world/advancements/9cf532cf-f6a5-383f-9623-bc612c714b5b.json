@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 21:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-25 19:32:28 +0000"
@@ -430,6 +436,12 @@
       "has_planks": "2025-05-25 20:05:28 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-05-25 21:36:09 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -853,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 21:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 19:57:20 +0000"
@@ -1030,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-25 21:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-25 19:32:02 +0000"
@@ -1049,6 +1073,7 @@
       "porkchop": "2025-05-25 19:43:45 +0000",
       "apple": "2025-05-25 20:29:54 +0000",
       "mutton": "2025-05-25 20:51:18 +0000",
+      "bread": "2025-05-25 21:32:09 +0000",
       "rotten_flesh": "2025-05-25 19:38:37 +0000"
     },
     "done": false
@@ -1056,6 +1081,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-25 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-25 21:29:53 +0000"
     },
     "done": true
   },
@@ -1131,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-25 21:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-25 20:15:14 +0000"
@@ -1203,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-25 21:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-25 20:05:07 +0000"
@@ -1266,6 +1309,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-25 19:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-25 21:36:09 +0000"
     },
     "done": true
   },
