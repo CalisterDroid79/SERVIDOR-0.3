@@ -212,3 +212,15 @@
 [25May2025 19:46:44.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
 [25May2025 19:57:20.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Acquire Hardware]
 [25May2025 20:05:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Isn't It Iron Pick]
+[25May2025 20:13:56.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Hot Stuff]
+[25May2025 20:15:24.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Not Today, Thank You]
+[25May2025 20:17:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Sweet Dreams]
+[25May2025 20:21:33.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=1535} BlockPos{x=264, y=64, z=1536}
+[25May2025 20:21:33.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=65, z=1535} BlockPos{x=264, y=64, z=1536}
+[25May2025 20:21:34.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=65, z=1537} BlockPos{x=264, y=63, z=1538}
+[25May2025 20:21:49.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=65, z=1535} BlockPos{x=258, y=63, z=1536}
+[25May2025 20:21:49.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=65, z=1535} BlockPos{x=258, y=63, z=1536}
+[25May2025 20:21:50.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=65, z=1536} BlockPos{x=258, y=63, z=1536}
+[25May2025 20:21:50.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=65, z=1536} BlockPos{x=258, y=63, z=1536}
+[25May2025 20:25:07.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=66, z=1504} BlockPos{x=243, y=65, z=1503}
+[25May2025 20:26:17.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [A Seedy Place]
