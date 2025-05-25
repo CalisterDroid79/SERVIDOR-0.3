@@ -1038,3 +1038,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25May2025 00:41:05.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 00:46:05.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25May2025 00:46:05.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:47:13.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:51:05.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:51:05.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:52:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Spectator Mode]
+[25May2025 00:52:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Spectator Mode]
+[25May2025 00:52:53.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[25May2025 00:52:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:53:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to ugotry778]
+[25May2025 00:53:41.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:55:28.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
+[25May2025 00:55:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Vindicator
+[25May2025 00:55:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[25May2025 00:55:49.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:56:05.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:56:05.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:56:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
+[25May2025 00:56:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:56:52.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Vindicator
+[25May2025 00:56:57.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Timed out
+[25May2025 00:56:57.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game

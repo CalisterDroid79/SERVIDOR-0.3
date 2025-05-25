@@ -58,3 +58,19 @@
 [25May2025 00:37:49.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/21205, l='ServerLevel[world]', x=1239.66, y=60.42, z=-933.30] died, message: 'Fletcher was slain by Vindicator'
 [25May2025 00:37:50.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21207, l='ServerLevel[world]', x=1259.95, y=64.00, z=-932.54] died, message: 'Cleric was slain by Vindicator'
 [25May2025 00:37:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:47:13.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:52:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Spectator Mode]
+[25May2025 00:52:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Spectator Mode]
+[25May2025 00:52:53.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[25May2025 00:52:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:53:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to ugotry778]
+[25May2025 00:53:41.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[25May2025 00:55:28.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
+[25May2025 00:55:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Vindicator
+[25May2025 00:55:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[25May2025 00:55:49.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:56:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Vindicator
+[25May2025 00:56:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[25May2025 00:56:52.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Vindicator
+[25May2025 00:56:57.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Timed out
+[25May2025 00:56:57.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
