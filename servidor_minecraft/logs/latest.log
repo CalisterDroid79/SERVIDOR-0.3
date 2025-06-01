@@ -140,3 +140,9 @@
 [01Jun2025 22:42:20.664] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 53024 ms
 [01Jun2025 22:42:20.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (67.855s)! For help, type "help"
 [01Jun2025 22:42:20.695] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jun2025 22:57:58.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:33775] logged in with entity id 272 at (163.5, 74.0, -50.5)
+[01Jun2025 22:57:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[01Jun2025 22:59:23.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[01Jun2025 22:59:23.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[01Jun2025 22:59:36.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:59469] logged in with entity id 640 at (153.5, 71.0, -50.5)
+[01Jun2025 22:59:36.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
