@@ -146,3 +146,9 @@
 [01Jun2025 22:59:23.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
 [01Jun2025 22:59:36.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:59469] logged in with entity id 640 at (153.5, 71.0, -50.5)
 [01Jun2025 22:59:36.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[01Jun2025 23:01:14.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[01Jun2025 23:01:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[01Jun2025 23:01:31.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:50301] logged in with entity id 892 at (128.9333157024705, 73.0, -71.80604455647827)
+[01Jun2025 23:01:31.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[01Jun2025 23:01:46.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[01Jun2025 23:01:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
