@@ -152,3 +152,17 @@
 [01Jun2025 23:01:31.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
 [01Jun2025 23:01:46.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
 [01Jun2025 23:01:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[01Jun2025 23:14:42.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:40575] logged in with entity id 972 at (129.02156542481092, 73.0, -70.97221684738757)
+[01Jun2025 23:14:42.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[01Jun2025 23:16:02.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[01Jun2025 23:16:02.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[01Jun2025 23:16:41.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:55589] logged in with entity id 1193 at (129.13639042558088, 73.0, -71.91342416487252)
+[01Jun2025 23:16:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[01Jun2025 23:17:08.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 hit the ground too hard whilst trying to escape Skeleton
+[01Jun2025 23:17:17.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Creative Mode]
+[01Jun2025 23:17:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Sweet Dreams]
+[01Jun2025 23:17:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Monster Hunter]
+[01Jun2025 23:20:39.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[01Jun2025 23:20:39.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[01Jun2025 23:20:43.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:52117] logged in with entity id 2933 at (468.30000001192093, 24.0, -499.30000001192093)
+[01Jun2025 23:20:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
