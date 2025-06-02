@@ -58,3 +58,5 @@
 [02Jun2025 20:29:46.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=76, z=7} BlockPos{x=102, y=78, z=6}
 [02Jun2025 20:29:46.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=76, z=7} BlockPos{x=102, y=78, z=6}
 [02Jun2025 20:41:12.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2387, l='ServerLevel[world]', x=100.41, y=64.00, z=28.69] died, message: 'Villager was slain by EliseoPlays908'
+[02Jun2025 22:05:42.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=66, z=-27} BlockPos{x=91, y=67, z=-26}
+[02Jun2025 22:05:42.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=66, z=-27} BlockPos{x=91, y=67, z=-26}
