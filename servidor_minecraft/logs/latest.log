@@ -78,3 +78,5 @@
 [02Jun2025 23:34:48.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [A Seedy Place]
 [02Jun2025 23:35:01.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
 [02Jun2025 23:35:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
+[02Jun2025 23:40:07.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=57, z=-139} BlockPos{x=-185, y=58, z=-139}
+[02Jun2025 23:42:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Not Today, Thank You]

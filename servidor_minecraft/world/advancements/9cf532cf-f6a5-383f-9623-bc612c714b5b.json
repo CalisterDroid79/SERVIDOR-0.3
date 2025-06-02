@@ -811,6 +811,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-02 23:43:09 +0000",
       "minecraft:spider": "2025-06-02 00:01:37 +0000",
       "minecraft:zombie": "2025-06-02 00:01:16 +0000",
       "minecraft:zombie_villager": "2025-06-02 00:17:19 +0000"
@@ -1886,6 +1887,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-06-02 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-02 23:42:52 +0000"
     },
     "done": true
   },
