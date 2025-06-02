@@ -397,6 +397,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-01 23:47:54 +0000",
+      "chicken": "2025-06-02 18:55:35 +0000",
       "baked_potato": "2025-06-02 16:55:09 +0000",
       "apple": "2025-06-02 01:53:52 +0000",
       "potato": "2025-06-02 17:02:28 +0000",
@@ -1207,6 +1208,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2025-06-02 18:51:27 +0000",
+      "minecraft:cow": "2025-06-02 19:03:27 +0000",
       "minecraft:chicken": "2025-06-02 17:12:09 +0000"
     },
     "done": false
