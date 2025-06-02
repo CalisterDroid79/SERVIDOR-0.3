@@ -821,3 +821,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 19:00:04.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 19:05:04.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 19:05:04.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:10:04.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:10:04.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:12:31.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> daw
+[02Jun2025 19:13:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> w
+[02Jun2025 19:15:04.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:15:04.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 19:20:04.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 19:20:04.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
