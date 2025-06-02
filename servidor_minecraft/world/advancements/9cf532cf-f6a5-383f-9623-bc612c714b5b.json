@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-06-01 23:38:18 +0000",
+      "minecraft:river": "2025-06-02 00:31:24 +0000",
       "minecraft:snowy_plains": "2025-06-01 23:31:58 +0000",
       "minecraft:snowy_taiga": "2025-06-01 23:33:35 +0000",
       "minecraft:forest": "2025-06-01 23:44:37 +0000"
@@ -934,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-02 00:31:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-02 00:03:33 +0000"
@@ -951,6 +958,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-02 00:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-02 00:31:46 +0000"
     },
     "done": true
   },
