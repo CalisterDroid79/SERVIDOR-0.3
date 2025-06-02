@@ -60,3 +60,7 @@
 [02Jun2025 20:41:12.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2387, l='ServerLevel[world]', x=100.41, y=64.00, z=28.69] died, message: 'Villager was slain by EliseoPlays908'
 [02Jun2025 22:05:42.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=66, z=-27} BlockPos{x=91, y=67, z=-26}
 [02Jun2025 22:05:42.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=66, z=-27} BlockPos{x=91, y=67, z=-26}
+[02Jun2025 22:46:58.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[02Jun2025 22:46:58.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[02Jun2025 22:47:50.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:42747] logged in with entity id 19962 at (109.5, 74.5, -6.5)
+[02Jun2025 22:47:50.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
