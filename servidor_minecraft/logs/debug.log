@@ -800,3 +800,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 18:39:04.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=72, z=-5} BlockPos{x=94, y=72, z=-5}
 [02Jun2025 18:39:31.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=69, z=-7} BlockPos{x=92, y=68, z=-7}
 [02Jun2025 18:39:31.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=69, z=-7} BlockPos{x=92, y=68, z=-7}
+[02Jun2025 18:40:04.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:40:04.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 18:45:04.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:45:04.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 18:46:14.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=64, z=21} BlockPos{x=110, y=63, z=20}
+[02Jun2025 18:46:14.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=64, z=21} BlockPos{x=110, y=63, z=20}
+[02Jun2025 18:47:56.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=69, z=67} BlockPos{x=105, y=67, z=67}
+[02Jun2025 18:47:56.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=69, z=67} BlockPos{x=105, y=67, z=67}
+[02Jun2025 18:47:56.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=69, z=67} BlockPos{x=105, y=67, z=67}
