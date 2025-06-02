@@ -1084,3 +1084,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jun2025 01:19:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
 [02Jun2025 01:21:50.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 01:21:50.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 01:26:50.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 01:26:50.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 01:31:50.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 01:31:50.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
