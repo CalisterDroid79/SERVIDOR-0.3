@@ -9,3 +9,8 @@
 [02Jun2025 00:02:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Creative Mode]
 [02Jun2025 00:02:54.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported ugotry778 to EliseoPlays908]
 [02Jun2025 00:03:02.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[02Jun2025 00:06:18.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [What a Deal!]
+[02Jun2025 00:06:47.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[02Jun2025 00:11:03.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 moved too quickly! 7.345829053109156,0.22768848754498805,-6.909612743621839
+[02Jun2025 00:13:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [What a Deal!]
+[02Jun2025 00:14:57.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/63, l='ServerLevel[world]', x=51.50, y=70.00, z=45.51] died, message: 'Fletcher was slain by Zombie'
