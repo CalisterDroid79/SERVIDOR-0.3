@@ -80,3 +80,7 @@
 [02Jun2025 23:35:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
 [02Jun2025 23:40:07.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=57, z=-139} BlockPos{x=-185, y=58, z=-139}
 [02Jun2025 23:42:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Not Today, Thank You]
+[02Jun2025 23:50:11.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:43073] logged in with entity id 30802 at (104.51249998807907, 64.0, -4.389600972710574)
+[02Jun2025 23:50:11.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[02Jun2025 23:51:09.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ugotry778> eliseo
+[02Jun2025 23:51:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to ugotry778]
