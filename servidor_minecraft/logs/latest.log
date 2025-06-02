@@ -100,3 +100,7 @@
 [02Jun2025 18:47:56.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=69, z=67} BlockPos{x=105, y=67, z=67}
 [02Jun2025 18:47:56.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=69, z=67} BlockPos{x=105, y=67, z=67}
 [02Jun2025 18:47:56.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=69, z=67} BlockPos{x=105, y=67, z=67}
+[02Jun2025 18:56:39.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=67, z=-26} BlockPos{x=42, y=65, z=-27}
+[02Jun2025 18:56:41.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=67, z=-20} BlockPos{x=49, y=66, z=-19}
+[02Jun2025 18:58:18.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 was slain by Iron Golem
+[02Jun2025 18:58:34.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]

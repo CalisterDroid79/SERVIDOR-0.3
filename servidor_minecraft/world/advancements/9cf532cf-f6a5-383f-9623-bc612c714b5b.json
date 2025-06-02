@@ -1206,6 +1206,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-06-02 18:51:27 +0000",
       "minecraft:chicken": "2025-06-02 17:12:09 +0000"
     },
     "done": false
@@ -1440,7 +1441,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:siamese": "2025-06-02 18:05:23 +0000"
+      "minecraft:siamese": "2025-06-02 18:05:23 +0000",
+      "minecraft:persian": "2025-06-02 18:51:02 +0000"
     },
     "done": false
   },
