@@ -75,3 +75,8 @@
 [02Jun2025 16:40:05.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [02Jun2025 16:41:37.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:47831] logged in with entity id 260 at (108.58752483775169, 64.0, 17.422336339148217)
 [02Jun2025 16:41:38.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[02Jun2025 17:12:09.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [The Parrots and the Bats]
+[02Jun2025 17:22:46.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-593, y=67, z=193} BlockPos{x=-592, y=66, z=192}
+[02Jun2025 17:22:46.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-593, y=67, z=193} BlockPos{x=-592, y=66, z=192}
+[02Jun2025 17:22:47.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-587, y=68, z=195} BlockPos{x=-587, y=66, z=192}
+[02Jun2025 17:27:39.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [A Seedy Place]
