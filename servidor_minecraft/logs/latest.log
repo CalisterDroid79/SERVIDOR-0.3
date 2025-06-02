@@ -106,3 +106,5 @@
 [02Jun2025 18:58:34.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
 [02Jun2025 19:12:31.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> daw
 [02Jun2025 19:13:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> w
+[02Jun2025 19:36:02.727] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24567, l='ServerLevel[world]', x=95.70, y=64.00, z=13.95] died, message: 'Villager was slain by EliseoPlays908'
+[02Jun2025 19:39:20.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/91, l='ServerLevel[world]', x=109.61, y=64.56, z=17.66] died, message: 'Butcher was slain by EliseoPlays908'
