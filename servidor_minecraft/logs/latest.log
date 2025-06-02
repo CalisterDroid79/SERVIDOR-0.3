@@ -25,3 +25,7 @@
 [02Jun2025 00:43:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
 [02Jun2025 01:01:31.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Take Aim]
 [02Jun2025 01:12:08.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Hot Stuff]
+[02Jun2025 01:18:34.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[02Jun2025 01:18:34.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[02Jun2025 01:19:12.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:36261] logged in with entity id 24163 at (99.06981678962075, 64.0, 21.87132558468195)
+[02Jun2025 01:19:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
