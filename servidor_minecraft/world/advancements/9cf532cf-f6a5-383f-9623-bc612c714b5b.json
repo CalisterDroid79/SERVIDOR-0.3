@@ -396,7 +396,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-01 23:47:54 +0000",
+      "baked_potato": "2025-06-02 16:55:09 +0000",
       "apple": "2025-06-02 01:53:52 +0000",
+      "potato": "2025-06-02 17:02:28 +0000",
       "bread": "2025-06-01 23:39:58 +0000",
       "rotten_flesh": "2025-06-02 00:18:28 +0000",
       "carrot": "2025-06-02 16:46:29 +0000"
@@ -1170,6 +1172,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-02 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-02 17:03:01 +0000"
     },
     "done": true
   },
