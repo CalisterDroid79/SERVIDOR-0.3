@@ -400,6 +400,7 @@
       "baked_potato": "2025-06-02 16:55:09 +0000",
       "apple": "2025-06-02 01:53:52 +0000",
       "potato": "2025-06-02 17:02:28 +0000",
+      "mutton": "2025-06-02 17:27:46 +0000",
       "bread": "2025-06-01 23:39:58 +0000",
       "rotten_flesh": "2025-06-02 00:18:28 +0000",
       "cooked_chicken": "2025-06-02 17:14:42 +0000",
@@ -1261,6 +1262,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 17:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-02 17:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-06-02 17:23:33 +0000"
@@ -1276,6 +1289,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-02 17:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 17:32:56 +0000"
     },
     "done": true
   },
