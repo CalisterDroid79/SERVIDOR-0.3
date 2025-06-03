@@ -427,6 +427,7 @@
       "cooked_porkchop": "2025-06-01 23:47:12 +0000",
       "cooked_beef": "2025-06-02 23:17:24 +0000",
       "apple": "2025-06-01 23:40:24 +0000",
+      "potato": "2025-06-03 00:13:58 +0000",
       "rabbit": "2025-06-01 23:46:37 +0000",
       "bread": "2025-06-01 23:44:13 +0000",
       "rotten_flesh": "2025-06-02 00:12:08 +0000",
@@ -1017,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-03 00:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-02 23:53:05 +0000"
@@ -1026,6 +1033,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-02 23:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-03 00:13:54 +0000"
     },
     "done": true
   },
@@ -1065,9 +1078,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-03 00:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-03 00:13:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-06-02 23:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-03 00:06:39 +0000"
     },
     "done": true
   },

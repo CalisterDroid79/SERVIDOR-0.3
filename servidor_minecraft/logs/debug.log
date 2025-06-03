@@ -1270,3 +1270,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jun2025 00:05:53.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 00:05:53.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jun2025 00:06:39.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Getting an Upgrade]
+[03Jun2025 00:10:53.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 00:10:53.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 00:15:53.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 00:15:53.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
