@@ -6,3 +6,11 @@
 [03Jun2025 00:24:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
 [03Jun2025 00:24:52.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 has made the advancement [Diamonds!]
 [03Jun2025 00:24:56.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Diamonds!]
+[03Jun2025 00:30:39.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Spectator Mode]
+[03Jun2025 00:30:55.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[03Jun2025 00:30:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[03Jun2025 00:31:04.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[03Jun2025 00:31:19.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:34071] logged in with entity id 37051 at (-36.66001931915879, -56.0, -45.00033542559094)
+[03Jun2025 00:31:19.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[03Jun2025 00:31:46.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
+[03Jun2025 00:31:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
