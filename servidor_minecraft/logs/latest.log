@@ -15,3 +15,11 @@
 [03Jun2025 00:31:46.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ugotry778 lost connection: Disconnected
 [03Jun2025 00:31:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 left the game
 [03Jun2025 00:57:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Spectator Mode]
+[03Jun2025 00:58:35.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Set own game mode to Survival Mode]
+[03Jun2025 00:59:58.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[03Jun2025 00:59:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[03Jun2025 01:00:04.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:59141] logged in with entity id 41325 at (105.19981685916778, 70.0, -5.062972958657379)
+[03Jun2025 01:00:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[03Jun2025 01:05:14.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=64, z=-22} BlockPos{x=156, y=62, z=-22}
+[03Jun2025 01:05:18.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=160, y=64, z=-34} BlockPos{x=161, y=62, z=-35}
+[03Jun2025 01:05:18.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=160, y=64, z=-34} BlockPos{x=161, y=62, z=-35}
