@@ -14,6 +14,7 @@
       "minecraft:snowy_taiga": "2025-06-01 23:33:34 +0000",
       "minecraft:cold_ocean": "2025-06-07 18:20:09 +0000",
       "minecraft:forest": "2025-06-02 00:08:28 +0000",
+      "minecraft:ice_spikes": "2025-06-07 18:40:13 +0000",
       "minecraft:snowy_beach": "2025-06-07 18:20:31 +0000",
       "minecraft:plains": "2025-06-07 18:20:33 +0000"
     },
@@ -1329,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-07 18:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-07 18:22:53 +0000"
@@ -1338,12 +1345,6 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-07 18:32:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-07 18:20:14 +0000"
     },
     "done": true
   },

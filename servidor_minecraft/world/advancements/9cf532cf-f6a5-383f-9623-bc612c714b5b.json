@@ -13,6 +13,7 @@
       "minecraft:snowy_plains": "2025-06-01 23:31:58 +0000",
       "minecraft:snowy_taiga": "2025-06-01 23:33:35 +0000",
       "minecraft:forest": "2025-06-01 23:44:37 +0000",
+      "minecraft:ice_spikes": "2025-06-07 18:40:14 +0000",
       "minecraft:snowy_beach": "2025-06-07 18:17:57 +0000",
       "minecraft:plains": "2025-06-02 17:18:20 +0000"
     },
@@ -2188,9 +2189,27 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-07 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-07 18:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-07 18:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-07 18:47:30 +0000"
     },
     "done": true
   },
