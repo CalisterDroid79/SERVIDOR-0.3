@@ -72,3 +72,18 @@
 [07Jun2025 18:08:40.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61ab9bae[id=<null>,name=ugotry778,properties={},legacy=false] (/127.162.157.25:58833) lost connection: Disconnected
 [07Jun2025 18:10:26.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:51319] logged in with entity id 1428 at (107.51249998807907, 70.16391571569339, -7.469087095794821)
 [07Jun2025 18:10:26.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
+[07Jun2025 18:14:24.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 was slain by Iron Golem
+[07Jun2025 18:14:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Set own game mode to Survival Mode]
+[07Jun2025 18:17:02.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[07Jun2025 18:17:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[07Jun2025 18:17:20.718] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79623d9d[id=<null>,name=EliseoPlays908,properties={},legacy=false] (/127.227.101.24:59727) lost connection: Disconnected
+[07Jun2025 18:17:24.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:35251] logged in with entity id 5449 at (-1043.1336103761355, 67.0, 223.30000001192093)
+[07Jun2025 18:17:24.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[07Jun2025 18:18:59.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/5472, l='ServerLevel[world]', x=-1088.50, y=70.92, z=281.73] died, message: 'Nitwit was slain by EliseoPlays908'
+[07Jun2025 18:19:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:23:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:28:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:30:44.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:30:44.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9087, l='ServerLevel[world]', x=-1108.10, y=65.00, z=230.51] died, message: 'Leatherworker was shot by EliseoPlays908'
+[07Jun2025 18:31:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> w
+[07Jun2025 18:31:48.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]

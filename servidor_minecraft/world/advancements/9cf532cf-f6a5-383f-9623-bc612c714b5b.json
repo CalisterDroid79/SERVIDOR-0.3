@@ -8,10 +8,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-06-01 23:38:18 +0000",
+      "minecraft:beach": "2025-06-07 18:17:49 +0000",
       "minecraft:river": "2025-06-02 00:31:24 +0000",
       "minecraft:snowy_plains": "2025-06-01 23:31:58 +0000",
       "minecraft:snowy_taiga": "2025-06-01 23:33:35 +0000",
       "minecraft:forest": "2025-06-01 23:44:37 +0000",
+      "minecraft:snowy_beach": "2025-06-07 18:17:57 +0000",
       "minecraft:plains": "2025-06-02 17:18:20 +0000"
     },
     "done": false
@@ -2176,6 +2178,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-06-03 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-07 18:16:05 +0000"
     },
     "done": true
   },
