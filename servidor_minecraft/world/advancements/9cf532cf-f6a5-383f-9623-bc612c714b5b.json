@@ -816,6 +816,7 @@
       "minecraft:skeleton": "2025-06-02 23:43:09 +0000",
       "minecraft:spider": "2025-06-02 00:01:37 +0000",
       "minecraft:slime": "2025-06-03 00:41:04 +0000",
+      "minecraft:witch": "2025-06-07 18:31:53 +0000",
       "minecraft:zombie": "2025-06-02 00:01:16 +0000",
       "minecraft:zombie_villager": "2025-06-02 00:17:19 +0000"
     },
@@ -2184,6 +2185,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-07 18:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 18:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 18:31:59 +0000"
     },
     "done": true
   },

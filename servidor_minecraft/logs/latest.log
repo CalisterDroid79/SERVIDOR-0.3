@@ -87,3 +87,10 @@
 [07Jun2025 18:30:44.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9087, l='ServerLevel[world]', x=-1108.10, y=65.00, z=230.51] died, message: 'Leatherworker was shot by EliseoPlays908'
 [07Jun2025 18:31:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> w
 [07Jun2025 18:31:48.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:34:04.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:35:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ugotry778: Teleported ugotry778 to EliseoPlays908]
+[07Jun2025 18:36:33.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of EliseoPlays908) moved wrongly! 0.2539282910614702
+[07Jun2025 18:36:33.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of EliseoPlays908) moved wrongly! 0.6165986836771253
+[07Jun2025 18:36:33.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of EliseoPlays908) moved wrongly! 0.9810226262679862
+[07Jun2025 18:36:33.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of EliseoPlays908) moved wrongly! 1.3463848584884772
+[07Jun2025 18:36:34.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donkey (vehicle of EliseoPlays908) moved wrongly! 1.7125826703909297
