@@ -65,3 +65,10 @@
 [07Jun2025 17:53:47.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.118s)! For help, type "help"
 [07Jun2025 17:53:47.207] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [07Jun2025 17:53:49.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[07Jun2025 18:05:18.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.227.101.24:53499] logged in with entity id 288 at (107.82665864543361, 74.0, -5.676818188436288)
+[07Jun2025 18:05:18.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[07Jun2025 18:05:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> w
+[07Jun2025 18:08:21.674] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a0bd5e[id=<null>,name=ugotry778,properties={},legacy=false] (/127.162.157.25:45191) lost connection: Disconnected
+[07Jun2025 18:08:40.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61ab9bae[id=<null>,name=ugotry778,properties={},legacy=false] (/127.162.157.25:58833) lost connection: Disconnected
+[07Jun2025 18:10:26.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ugotry778[/127.162.157.25:51319] logged in with entity id 1428 at (107.51249998807907, 70.16391571569339, -7.469087095794821)
+[07Jun2025 18:10:26.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ugotry778 joined the game
