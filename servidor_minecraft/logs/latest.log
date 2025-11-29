@@ -1,0 +1,155 @@
+[29Nov2025 02:28:18.557] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[29Nov2025 02:28:18.561] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[29Nov2025 02:28:18.562] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[29Nov2025 02:28:18.674] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[29Nov2025 02:28:18.840] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[29Nov2025 02:28:19.227] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Nov2025 02:28:20.769] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[29Nov2025 02:28:31.402] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 58.0.0, for MC 1.21.8 with MCP 20250717.105350
+[29Nov2025 02:28:31.405] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v58.0.0 Initialized
+[29Nov2025 02:28:31.457] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[29Nov2025 02:28:32.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Nov2025 02:28:33.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 58.0.0 Target: 58.1.0
+[29Nov2025 02:28:34.331] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[29Nov2025 02:28:38.323] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1407 recipes
+[29Nov2025 02:28:38.347] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
+[29Nov2025 02:28:38.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.8
+[29Nov2025 02:28:38.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Nov2025 02:28:38.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Nov2025 02:28:38.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Nov2025 02:28:38.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Nov2025 02:28:39.063] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Nov2025 02:28:39.230] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Nov2025 02:28:39.230] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Nov2025 02:28:39.231] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Nov2025 02:28:39.232] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Nov2025 02:28:39.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Nov2025 02:28:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Nov2025 02:28:47.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.081] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.088] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.089] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.089] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2025 02:28:47.310] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[29Nov2025 02:28:47.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[29Nov2025 02:28:48.134] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8363 ms
+[29Nov2025 02:28:48.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.872s)! For help, type "help"
+[29Nov2025 02:28:48.193] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Nov2025 02:29:05.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.155.144.145:45747] logged in with entity id 3 at (-140.24209026045355, -24.0, 200.27932691402847)
+[29Nov2025 02:29:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[29Nov2025 02:30:03.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.7.32.188:35811] logged in with entity id 798 at (-5.5, 101.0, -5.5)
+[29Nov2025 02:30:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[29Nov2025 02:30:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported CalisterDroid79 to EliseoPlays908]
+[29Nov2025 02:30:21.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[29Nov2025 02:30:21.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[29Nov2025 02:30:29.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.155.144.145:44079] logged in with entity id 1210 at (-140.12119768707933, -24.0, 198.30000001192093)
+[29Nov2025 02:30:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[29Nov2025 02:31:38.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[29Nov2025 02:31:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Stone Age]
+[29Nov2025 02:32:49.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> 2,5,8........ Cual sera el numero en la decima casilla?
+[29Nov2025 02:33:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> resolucion
+[29Nov2025 02:33:30.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> cualquiercasilla+(cuantas casillas faltan)(razon)
+[29Nov2025 02:33:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> piero
+[29Nov2025 02:33:42.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[29Nov2025 02:33:46.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> te mando
+[29Nov2025 02:33:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> meet
+[29Nov2025 02:33:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> mi steam
+[29Nov2025 02:33:55.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> esta malito
+[29Nov2025 02:34:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> nose porque
+[29Nov2025 02:34:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> se ma sale a cada rrato esperame
+[29Nov2025 02:34:10.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[29Nov2025 02:34:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[29Nov2025 02:34:19.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Spectator Mode]
+[29Nov2025 02:34:29.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.155.144.145:48135] logged in with entity id 1886 at (-159.30000001192093, 21.0, 222.69999998807907)
+[29Nov2025 02:34:29.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[29Nov2025 02:34:38.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> cerca hay una chamba
+[29Nov2025 02:34:51.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> esta a unos bloques
+[29Nov2025 02:34:54.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Minecraft: Trial(s) Edition]
+[29Nov2025 02:35:22.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[29Nov2025 02:35:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[29Nov2025 02:36:13.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.155.144.145:44319] logged in with entity id 2756 at (-159.30000001192093, 31.0, 222.30000001192093)
+[29Nov2025 02:36:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[29Nov2025 02:36:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> piero
+[29Nov2025 02:36:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ya te mnade
+[29Nov2025 02:36:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> }
+[29Nov2025 02:37:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> piero
+[29Nov2025 02:37:08.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> esdtaba mal el meet no entres
+[29Nov2025 02:37:10.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliseoPlays908 lost connection: Disconnected
+[29Nov2025 02:37:10.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 left the game
+[29Nov2025 02:37:49.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliseoPlays908[/127.155.144.145:33325] logged in with entity id 3602 at (-159.30000001192093, 36.0, 222.30000001192093)
+[29Nov2025 02:37:49.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 joined the game
+[29Nov2025 02:37:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> piero
+[29Nov2025 02:37:55.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> ya esta
+[29Nov2025 02:37:59.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EliseoPlays908> unete al meet
+[29Nov2025 02:38:51.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[29Nov2025 02:39:38.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to EliseoPlays908]
+[29Nov2025 02:40:08.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
+[29Nov2025 02:40:14.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:43:17.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Getting an Upgrade]
+[29Nov2025 02:44:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Sweet Dreams]
+[29Nov2025 02:44:41.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:42.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:42.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:42.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:43.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:45.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:45.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> zz
+[29Nov2025 02:44:46.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:46.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:46.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:46.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:46.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:46.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> z
+[29Nov2025 02:44:47.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliseoPlays908 has made the advancement [Sweet Dreams]
+[29Nov2025 02:45:10.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/393, l='ServerLevel[world]', x=-415.86, y=78.00, z=265.77] died, message: 'Nitwit was slain by EliseoPlays908'
+[29Nov2025 02:45:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:07.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:09.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:12.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:12.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:17.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:18.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:47:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:48:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Acquire Hardware]
+[29Nov2025 02:50:05.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Spectator Mode]
+[29Nov2025 02:51:17.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Set own game mode to Survival Mode]
+[29Nov2025 02:51:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Ice Bucket Challenge]
+[29Nov2025 02:52:51.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Suit Up]
+[29Nov2025 02:53:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Isn't It Iron Pick]
+[29Nov2025 02:55:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> wasdwa
+[29Nov2025 02:55:50.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> sdw
+[29Nov2025 02:55:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> asd
+[29Nov2025 02:55:51.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> wasd
+[29Nov2025 02:55:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> wad
+[29Nov2025 02:55:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> was
+[29Nov2025 02:55:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> dw
+[29Nov2025 02:55:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> sdaw
+[29Nov2025 02:55:52.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> daw
+[29Nov2025 02:55:53.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> da
+[29Nov2025 02:55:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> wda
+[29Nov2025 02:56:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalisterDroid79> t
+[29Nov2025 02:56:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliseoPlays908: Teleported EliseoPlays908 to CalisterDroid79]
+[29Nov2025 02:58:16.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7821, l='ServerLevel[world]', x=400.72, y=70.00, z=182.90] died, message: 'Nitwit was slain by CalisterDroid79'
