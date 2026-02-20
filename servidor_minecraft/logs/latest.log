@@ -1,0 +1,73 @@
+[20Feb2026 01:34:33.555] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[20Feb2026 01:34:33.558] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04
+[20Feb2026 01:34:33.560] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.10 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[20Feb2026 01:34:33.685] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[20Feb2026 01:34:33.848] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[20Feb2026 01:34:34.201] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Feb2026 01:34:35.558] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[20Feb2026 01:34:44.982] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 58.0.0, for MC 1.21.8 with MCP 20250717.105350
+[20Feb2026 01:34:44.984] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v58.0.0 Initialized
+[20Feb2026 01:34:45.021] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[20Feb2026 01:34:45.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Feb2026 01:34:46.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 58.0.0 Target: 58.1.0
+[20Feb2026 01:34:47.751] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20Feb2026 01:34:49.421] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[20Feb2026 01:34:51.140] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1407 recipes
+[20Feb2026 01:34:51.173] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
+[20Feb2026 01:34:51.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.8
+[20Feb2026 01:34:51.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Feb2026 01:34:51.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Feb2026 01:34:51.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Feb2026 01:34:51.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Feb2026 01:34:52.003] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Feb2026 01:34:52.158] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Feb2026 01:34:52.159] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Feb2026 01:34:52.160] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Feb2026 01:34:52.161] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Feb2026 01:34:52.206] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[20Feb2026 01:34:52.209] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[20Feb2026 01:34:52.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[20Feb2026 01:34:52.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[20Feb2026 01:34:52.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[20Feb2026 01:34:52.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[20Feb2026 01:34:52.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[20Feb2026 01:34:52.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Feb2026 01:35:08.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Feb2026 01:35:08.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:08.816] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:09.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:09.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:10.336] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:10.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:11.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:12.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:12.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:12.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:13.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:13.823] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:14.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:15.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:15.334] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:16.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:16.318] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:16.876] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:17.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:17.817] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Feb2026 01:35:18.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[20Feb2026 01:35:18.573] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10259 ms
+[20Feb2026 01:35:18.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.378s)! For help, type "help"
+[20Feb2026 01:35:18.617] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Feb2026 01:36:18.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[20Feb2026 01:39:44.023] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c0e0845[id=42e93a6d-8ac7-3723-9604-a05e0dbe732d,name=tralalero908,properties={}] lost connection: Disconnected
+[20Feb2026 01:44:54.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.194.212.118:45079] logged in with entity id 27 at (-19.5, 71.0, 15.5)
+[20Feb2026 01:44:54.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[20Feb2026 01:46:36.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: You logged in from another location
+[20Feb2026 01:46:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[20Feb2026 01:46:36.332] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2026 01:46:42.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.194.212.118:35917] logged in with entity id 735 at (-5.11131856744832, 64.79673560066871, 22.62567699278199)
+[20Feb2026 01:46:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[20Feb2026 01:47:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Stone Age]
+[20Feb2026 01:49:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Getting an Upgrade]
+[20Feb2026 01:49:42.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Timed out
+[20Feb2026 01:49:42.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[20Feb2026 01:50:42.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
