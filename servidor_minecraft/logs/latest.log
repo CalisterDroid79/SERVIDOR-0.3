@@ -1,0 +1,66 @@
+[21Mar2026 21:04:14.863] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[21Mar2026 21:04:14.866] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04
+[21Mar2026 21:04:14.866] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.10 by Ubuntu; OS Linux arch amd64 version 6.8.0-1044-azure
+[21Mar2026 21:04:14.981] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Mar2026 21:04:15.150] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Mar2026 21:04:15.636] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Mar2026 21:04:16.120] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[21Mar2026 21:04:26.255] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 61.0.3, for MC 1.21.11 with MCP 20251209.095502
+[21Mar2026 21:04:26.259] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v61.0.3 Initialized
+[21Mar2026 21:04:26.295] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21Mar2026 21:04:27.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Mar2026 21:04:28.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 61.0.3 Target: 61.1.0
+[21Mar2026 21:04:29.116] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21Mar2026 21:04:30.740] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[21Mar2026 21:04:32.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1470 recipes
+[21Mar2026 21:04:32.754] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1584 advancements
+[21Mar2026 21:04:32.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.11
+[21Mar2026 21:04:32.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Mar2026 21:04:32.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Mar2026 21:04:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Mar2026 21:04:33.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Mar2026 21:04:33.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Mar2026 21:04:33.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Mar2026 21:04:33.399] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Mar2026 21:04:33.402] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Mar2026 21:04:33.444] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[21Mar2026 21:04:33.446] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[21Mar2026 21:04:33.447] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[21Mar2026 21:04:33.448] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[21Mar2026 21:04:33.449] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[21Mar2026 21:04:33.450] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[21Mar2026 21:04:33.452] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[21Mar2026 21:04:33.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Mar2026 21:04:34.335] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Selecting global world spawn...
+[21Mar2026 21:04:48.946] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[21Mar2026 21:04:48.947] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[21Mar2026 21:04:48.950] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 14616 ms
+[21Mar2026 21:04:48.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.516s)! For help, type "help"
+[21Mar2026 21:04:48.985] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Mar2026 21:05:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[21Mar2026 21:05:55.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.228.66.151:48645] logged in with entity id 48 at (-3.5, 69.0, 4.5)
+[21Mar2026 21:05:55.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[21Mar2026 21:07:02.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=71, z=11} BlockPos{x=-1, y=69, z=11}
+[21Mar2026 21:07:02.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=71, z=11} BlockPos{x=-1, y=69, z=11}
+[21Mar2026 21:09:28.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Stone Age]
+[21Mar2026 21:09:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Getting an Upgrade]
+[21Mar2026 21:11:12.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Disconnected
+[21Mar2026 21:11:12.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[21Mar2026 21:11:38.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.209.24.12:49929] logged in with entity id 2286 at (37.56803267446615, 64.0, 22.30000001192093)
+[21Mar2026 21:11:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[21Mar2026 21:12:26.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 moved too quickly! 6.8396152165094435,1.0013359791121417,-7.634711491119983
+[21Mar2026 21:13:14.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 moved too quickly! 9.642995932811516,1.3331999936342243,-3.3568128079892006
+[21Mar2026 21:13:24.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Timed out
+[21Mar2026 21:13:24.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[21Mar2026 21:13:58.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.209.24.12:60113] logged in with entity id 3633 at (92.1913884734074, 68.41999998688698, -71.56382367863337)
+[21Mar2026 21:13:58.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[21Mar2026 21:14:29.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Timed out
+[21Mar2026 21:14:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[21Mar2026 21:15:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[21Mar2026 21:18:52.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.228.66.151:48745] logged in with entity id 4323 at (97.05477663908863, 69.02442408821369, -73.8772690743851)
+[21Mar2026 21:18:52.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[21Mar2026 21:20:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Sweet Dreams]
+[21Mar2026 21:23:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 was shot by Skeleton
+[21Mar2026 21:24:26.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Disconnected
+[21Mar2026 21:24:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[21Mar2026 21:25:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
