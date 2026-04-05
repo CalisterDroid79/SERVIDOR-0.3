@@ -1,0 +1,29 @@
+[05Apr2026 00:01:59.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Ice Bucket Challenge]
+[05Apr2026 00:02:20.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tralalero908: Teleported CalisterDroid79 to tralalero908]
+[05Apr2026 00:02:25.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Take Aim]
+[05Apr2026 00:05:14.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tralalero908: Teleported tralalero908 to CalisterDroid79]
+[05Apr2026 00:05:51.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has reached the goal [Mob Kabob]
+[05Apr2026 00:06:50.192] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Farmer'/21197, l='ServerLevel[world]', x=170.67, y=64.82, z=226.33] died, message: 'Farmer was slain by Zombie'
+[05Apr2026 00:08:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to tralalero908]
+[05Apr2026 00:08:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to tralalero908]
+[05Apr2026 00:09:02.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported CalisterDroid79 to tralalero908]
+[05Apr2026 00:10:16.931] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Nitwit'/23590, l='ServerLevel[world]', x=198.85, y=62.03, z=712.10] died, message: 'Nitwit was slain by tralalero908'
+[05Apr2026 00:11:03.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Teleported tralalero908 to CalisterDroid79]
+[05Apr2026 00:17:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CalisterDroid79: Gave 53 [Sugar Cane] to tralalero908]
+[05Apr2026 00:18:14.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CalisterDroid79) moved too quickly! 7.600776241330948,0.0,6.861414450178472
+[05Apr2026 00:18:14.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of CalisterDroid79) moved too quickly! 8.207894637956684,0.0,7.022598409439524
+[05Apr2026 00:21:18.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalisterDroid79 lost connection: Disconnected
+[05Apr2026 00:21:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 left the game
+[05Apr2026 00:22:06.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Disconnected
+[05Apr2026 00:22:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[05Apr2026 00:23:03.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Apr2026 00:23:03.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Apr2026 00:23:03.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Apr2026 00:23:03.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Apr2026 00:23:03.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Apr2026 00:23:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Apr2026 00:23:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Apr2026 00:23:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Apr2026 00:23:03.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Apr2026 00:23:03.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Apr2026 00:23:03.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
