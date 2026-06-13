@@ -1,0 +1,67 @@
+[13Jun2026 16:18:11.673] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[13Jun2026 16:18:11.676] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04
+[13Jun2026 16:18:11.676] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.10 by Ubuntu; OS Linux arch amd64 version 6.8.0-1052-azure
+[13Jun2026 16:18:11.811] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[13Jun2026 16:18:12.067] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[13Jun2026 16:18:12.370] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[13Jun2026 16:18:12.977] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[13Jun2026 16:18:24.955] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 61.0.3, for MC 1.21.11 with MCP 20251209.095502
+[13Jun2026 16:18:24.958] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v61.0.3 Initialized
+[13Jun2026 16:18:24.994] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[13Jun2026 16:18:26.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jun2026 16:18:27.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 61.0.3 Target: 61.1.0
+[13Jun2026 16:18:28.185] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13Jun2026 16:18:32.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1470 recipes
+[13Jun2026 16:18:32.298] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1584 advancements
+[13Jun2026 16:18:32.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.11
+[13Jun2026 16:18:32.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jun2026 16:18:32.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jun2026 16:18:32.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jun2026 16:18:32.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jun2026 16:18:33.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Jun2026 16:18:33.074] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Jun2026 16:18:33.075] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Jun2026 16:18:33.075] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Jun2026 16:18:33.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jun2026 16:18:33.815] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[13Jun2026 16:18:33.818] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[13Jun2026 16:18:33.831] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 17 ms
+[13Jun2026 16:18:33.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.742s)! For help, type "help"
+[13Jun2026 16:18:33.926] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jun2026 16:18:49.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.193.211.236:48839] logged in with entity id 65 at (-127.544142587415, 45.0, -341.0168800854271)
+[13Jun2026 16:18:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[13Jun2026 16:19:39.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Not Today, Thank You]
+[13Jun2026 16:19:50.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Monster Hunter]
+[13Jun2026 16:22:37.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Take Aim]
+[13Jun2026 16:35:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Diamonds!]
+[13Jun2026 17:14:47.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tralalero908> wha
+[13Jun2026 17:22:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Ice Bucket Challenge]
+[13Jun2026 17:26:29.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Hot Stuff]
+[13Jun2026 17:30:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [The Parrots and the Bats]
+[13Jun2026 17:34:37.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=64, z=-853} BlockPos{x=-303, y=61, z=-852}
+[13Jun2026 17:34:37.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=64, z=-853} BlockPos{x=-303, y=61, z=-852}
+[13Jun2026 17:35:02.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Best Friends Forever]
+[13Jun2026 17:54:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Voluntary Exile]
+[13Jun2026 18:12:20.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Enchanter]
+[13Jun2026 18:17:01.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Timed out
+[13Jun2026 18:17:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[13Jun2026 18:17:10.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.193.211.236:52179] logged in with entity id 39667 at (-3001.6807399146205, 69.0, -1397.228815294075)
+[13Jun2026 18:17:10.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[13Jun2026 18:26:14.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2993, y=69, z=-1405} BlockPos{x=-2992, y=67, z=-1407}
+[13Jun2026 18:33:05.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3013, y=70, z=-1427} BlockPos{x=-3011, y=69, z=-1430}
+[13Jun2026 18:35:49.887] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Nitwit'/39662, l='ServerLevel[world]', x=-2936.51, y=64.50, z=-1399.80] died, message: 'Nitwit was slain by tralalero908'
+[13Jun2026 18:40:40.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=70, z=-1424} BlockPos{x=-2998, y=68, z=-1425}
+[13Jun2026 18:40:40.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=70, z=-1424} BlockPos{x=-2998, y=68, z=-1425}
+[13Jun2026 18:40:40.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=70, z=-1424} BlockPos{x=-2998, y=68, z=-1425}
+[13Jun2026 18:40:40.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2999, y=70, z=-1424} BlockPos{x=-2998, y=68, z=-1425}
+[13Jun2026 18:40:40.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2998, y=70, z=-1423} BlockPos{x=-2998, y=68, z=-1425}
+[13Jun2026 18:47:38.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tralalero908> www
+[13Jun2026 18:48:30.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 51748ms or 1034 ticks behind
+[13Jun2026 18:48:30.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Disconnected
+[13Jun2026 18:48:30.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[13Jun2026 18:48:30.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: tralalero908 (/127.193.211.236:55771) lost connection: Disconnected
+[13Jun2026 18:48:36.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.193.211.236:41587] logged in with entity id 47944 at (-3001.5, 69.0, -1402.5)
+[13Jun2026 18:48:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[13Jun2026 18:56:18.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 lost connection: Disconnected
+[13Jun2026 18:56:18.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 left the game
+[13Jun2026 18:57:18.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
