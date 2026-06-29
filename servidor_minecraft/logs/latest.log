@@ -1,0 +1,41 @@
+[29Jun2026 00:18:43.146] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[29Jun2026 00:18:43.151] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04
+[29Jun2026 00:18:43.152] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.10 by Ubuntu; OS Linux arch amd64 version 6.8.0-1052-azure
+[29Jun2026 00:18:43.283] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[29Jun2026 00:18:43.406] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVIDOR-0.3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[29Jun2026 00:18:43.749] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Jun2026 00:18:44.132] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[29Jun2026 00:18:53.962] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 61.0.3, for MC 1.21.11 with MCP 20251209.095502
+[29Jun2026 00:18:53.963] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v61.0.3 Initialized
+[29Jun2026 00:18:53.976] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[29Jun2026 00:18:54.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jun2026 00:18:55.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 61.0.3 Target: 61.1.0
+[29Jun2026 00:18:56.512] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[29Jun2026 00:18:57.883] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[29Jun2026 00:18:59.199] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1470 recipes
+[29Jun2026 00:18:59.227] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1584 advancements
+[29Jun2026 00:18:59.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.11
+[29Jun2026 00:18:59.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jun2026 00:18:59.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jun2026 00:18:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jun2026 00:18:59.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jun2026 00:18:59.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jun2026 00:18:59.847] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jun2026 00:18:59.849] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jun2026 00:18:59.849] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jun2026 00:18:59.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jun2026 00:19:00.496] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Selecting global world spawn...
+[29Jun2026 00:19:15.251] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[29Jun2026 00:19:15.254] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[29Jun2026 00:19:15.257] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 14761 ms
+[29Jun2026 00:19:15.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.382s)! For help, type "help"
+[29Jun2026 00:19:15.300] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jun2026 00:20:15.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[29Jun2026 00:24:02.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tralalero908[/127.193.211.236:52829] logged in with entity id 15 at (-0.5, 80.0, -7.5)
+[29Jun2026 00:24:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 joined the game
+[29Jun2026 00:25:10.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Stone Age]
+[29Jun2026 00:25:19.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tralalero908 has made the advancement [Getting an Upgrade]
+[29Jun2026 00:26:53.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalisterDroid79[/127.15.240.5:39647] logged in with entity id 1169 at (-6.5, 82.0, 1.5)
+[29Jun2026 00:26:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 joined the game
+[29Jun2026 00:27:13.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalisterDroid79 has made the advancement [Stone Age]
+[29Jun2026 00:28:28.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tralalero908 moved wrongly!

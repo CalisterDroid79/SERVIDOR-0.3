@@ -1,0 +1,418 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 2026-06-13 21:57:04
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took too long
+	at java.base/java.util.HashMap.put(HashMap.java:618) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.lambda$asData$1(PlayerAdvancements.java:160) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements$$Lambda/0x000072a51537fd48.accept(Unknown Source) ~[?:?]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.asData(PlayerAdvancements.java:158) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.save(PlayerAdvancements.java:130) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.players.PlayerList.save(PlayerList.java:300) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.players.PlayerList.remove(PlayerList.java:308) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:1377) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:1368) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.network.Connection.handleDisconnection(Connection.java:595) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:141) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1189) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:459) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1155) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1011) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:333) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1043) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:762) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:287) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer$$Lambda/0x000072a514fe1bf0.run(Unknown Source) ~[?:?]
+	at java.base/java.lang.Thread.runWith(Thread.java:1596) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Transformer Audit:
+  net.minecraft.network.Connection
+    REASON: classloading
+  net.minecraft.server.MinecraftServer
+    REASON: classloading
+    PLUGIN: accesstransformer:BEFORE
+  net.minecraft.server.PlayerAdvancements
+    REASON: classloading
+  net.minecraft.server.dedicated.DedicatedServer
+    REASON: classloading
+    PLUGIN: accesstransformer:BEFORE
+  net.minecraft.server.network.ServerConnectionListener
+    REASON: classloading
+  net.minecraft.server.network.ServerGamePacketListenerImpl
+    REASON: classloading
+  net.minecraft.server.players.PlayerList
+    REASON: classloading
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Suspected Mods: NONE
+Stacktrace:
+	at java.base/java.util.HashMap.put(HashMap.java:618) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.lambda$asData$1(PlayerAdvancements.java:160) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements$$Lambda/0x000072a51537fd48.accept(Unknown Source) ~[?:?]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.asData(PlayerAdvancements.java:158) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.save(PlayerAdvancements.java:130) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.players.PlayerList.save(PlayerList.java:300) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.players.PlayerList.remove(PlayerList.java:308) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:1377) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:1368) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.network.Connection.handleDisconnection(Connection.java:595) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:141) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1189) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:459) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1155) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1011) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:333) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1043) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:762) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:287) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+Transformer Audit:
+  net.minecraft.network.Connection
+    REASON: classloading
+  net.minecraft.server.MinecraftServer
+    REASON: classloading
+    PLUGIN: accesstransformer:BEFORE
+  net.minecraft.server.PlayerAdvancements
+    REASON: classloading
+  net.minecraft.server.dedicated.DedicatedServer
+    REASON: classloading
+    PLUGIN: accesstransformer:BEFORE
+  net.minecraft.server.network.ServerConnectionListener
+    REASON: classloading
+  net.minecraft.server.network.ServerGamePacketListenerImpl
+    REASON: classloading
+  net.minecraft.server.players.PlayerList
+    REASON: classloading
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=9 RUNNABLE
+	at java.base@21.0.10/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@21.0.10/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
+	at java.base@21.0.10/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
+
+
+"Finalizer" daemon prio=8 Id=10 WAITING on java.lang.ref.NativeReferenceQueue$Lock@5ea0ae2c
+	at java.base@21.0.10/java.lang.Object.wait0(Native Method)
+	-  waiting on java.lang.ref.NativeReferenceQueue$Lock@5ea0ae2c
+	at java.base@21.0.10/java.lang.Object.wait(Object.java:366)
+	at java.base@21.0.10/java.lang.Object.wait(Object.java:339)
+	at java.base@21.0.10/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
+	at java.base@21.0.10/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
+	at java.base@21.0.10/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
+
+
+"Signal Dispatcher" daemon prio=9 Id=11 RUNNABLE
+
+
+"Notification Thread" daemon prio=9 Id=16 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=17 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6c3838e1
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6c3838e1
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1886)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+	at java.base@21.0.10/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"JNA Cleaner" daemon prio=5 Id=22 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2e14af5d
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2e14af5d
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1886)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)
+
+
+"Timer hack thread" daemon prio=5 Id=27 TIMED_WAITING
+	at java.base@21.0.10/java.lang.Thread.sleep0(Native Method)
+	at java.base@21.0.10/java.lang.Thread.sleep(Thread.java:509)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.util.Util$9.run(Util.java:909)
+
+
+"FileSystemWatchService" daemon prio=5 Id=30 RUNNABLE (in native)
+	at java.base@21.0.10/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@21.0.10/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:307)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+
+
+"config-file-watcher-0-0" daemon prio=5 Id=31 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1e2e7b2a
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1e2e7b2a
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1797)
+	at java.base@21.0.10/java.util.concurrent.LinkedBlockingDeque.pollFirst(LinkedBlockingDeque.java:515)
+	at java.base@21.0.10/java.util.concurrent.LinkedBlockingDeque.poll(LinkedBlockingDeque.java:677)
+	at java.base@21.0.10/sun.nio.fs.AbstractWatchService.poll(AbstractWatchService.java:108)
+	at SECURE-BOOTSTRAP/com.electronwill.nightconfig.core@3.7.4/com.electronwill.nightconfig.core.file.FileWatcher$FsWatcher.run(FileWatcher.java:378)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"Yggdrasil Key Fetcher" daemon prio=5 Id=36 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@45a4670d
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@45a4670d
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1797)
+	at java.base@21.0.10/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@21.0.10/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@21.0.10/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@21.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base@21.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	...
+
+
+"Server thread" prio=5 Id=40 RUNNABLE
+	at java.base@21.0.10/java.util.HashMap.put(HashMap.java:618)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.lambda$asData$1(PlayerAdvancements.java:160)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements$$Lambda/0x000072a51537fd48.accept(Unknown Source)
+	at java.base@21.0.10/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.asData(PlayerAdvancements.java:158)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.PlayerAdvancements.save(PlayerAdvancements.java:130)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.players.PlayerList.save(PlayerList.java:300)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.players.PlayerList.remove(PlayerList.java:308)
+	...
+
+
+"Server console handler" daemon prio=5 Id=42 RUNNABLE
+	at java.base@21.0.10/java.io.FileInputStream.read0(Native Method)
+	at java.base@21.0.10/java.io.FileInputStream.read(FileInputStream.java:231)
+	at java.base@21.0.10/java.io.FilterInputStream.read(FilterInputStream.java:71)
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.terminal.impl.AbstractPty$1.read(AbstractPty.java:58)
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:124)
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:157)
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:56)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=43 RUNNABLE
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=44 RUNNABLE
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait(Native.java:193)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.epollWait(EpollIoHandler.java:373)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:439)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@e09440f
+
+
+"FileSystemWatchService" daemon prio=5 Id=45 RUNNABLE (in native)
+	at java.base@21.0.10/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@21.0.10/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:307)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+
+
+"config-file-watcher-1-0" daemon prio=5 Id=46 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@68f3c6cc
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@68f3c6cc
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1797)
+	at java.base@21.0.10/java.util.concurrent.LinkedBlockingDeque.pollFirst(LinkedBlockingDeque.java:515)
+	at java.base@21.0.10/java.util.concurrent.LinkedBlockingDeque.poll(LinkedBlockingDeque.java:677)
+	at java.base@21.0.10/sun.nio.fs.AbstractWatchService.poll(AbstractWatchService.java:108)
+	at SECURE-BOOTSTRAP/com.electronwill.nightconfig.core@3.7.4/com.electronwill.nightconfig.core.file.FileWatcher$FsWatcher.run(FileWatcher.java:378)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"pool-5-thread-1" prio=5 Id=47 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@355b4e5a
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@355b4e5a
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1746)
+	at java.base@21.0.10/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+	at java.base@21.0.10/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	...
+
+
+"Server Watchdog" daemon prio=5 Id=48 RUNNABLE
+	at java.management@21.0.10/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@21.0.10/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
+	at java.management@21.0.10/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.ServerWatchdog.createWatchdogCrashReport(ServerWatchdog.java:79)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:49)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+
+
+"LanServerPinger #1" daemon prio=5 Id=49 TIMED_WAITING
+	at java.base@21.0.10/java.lang.Thread.sleep0(Native Method)
+	at java.base@21.0.10/java.lang.Thread.sleep(Thread.java:509)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.server.LanServerPinger.run(LanServerPinger.java:50)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=50 RUNNABLE
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait(Native.java:193)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.epollWait(EpollIoHandler.java:373)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:439)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@4a949ce9
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=51 RUNNABLE
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait(Native.java:193)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.epollWait(EpollIoHandler.java:373)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:439)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@e798088
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=52 RUNNABLE
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.Native.epollWait(Native.java:193)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.epollWait(EpollIoHandler.java:373)
+	at SECURE-BOOTSTRAP/io.netty.transport.classes.epoll@4.2.7.Final/io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:439)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at SECURE-BOOTSTRAP/io.netty.transport@4.2.7.Final/io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at SECURE-BOOTSTRAP/io.netty.common@4.2.7.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@78caf22d
+
+
+"Worker-Main-2" daemon prio=5 Id=56 TIMED_WAITING on java.util.concurrent.ForkJoinPool@170c5af0
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@170c5af0
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:449)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1891)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1809)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+
+
+"Worker-Main-4" daemon prio=5 Id=69 TIMED_WAITING on java.util.concurrent.ForkJoinPool@170c5af0
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@170c5af0
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:449)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1891)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1809)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+
+
+
+Stacktrace:
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.ServerWatchdog.createWatchdogCrashReport(ServerWatchdog.java:93) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:49) ~[forge-1.21.11-61.0.3-server.jar!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Transformer Audit:
+  net.minecraft.server.dedicated.ServerWatchdog
+    REASON: classloading
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: minecraft:overworld: players: 0, entities: 677,674,375,2199,2194,0,5 [minecraft:item:101,minecraft:pig:101,minecraft:sheep:97,minecraft:chicken:97,minecraft:cow:58], block_entities: 259 [minecraft:mob_spawner:121,minecraft:vault:44,minecraft:trial_spawner:33,minecraft:hopper:24,minecraft:beehive:21], block_ticks: 163517, fluid_ticks: 3407, chunk_source: Chunks[S] W: 4712 E: 663,650,367,2108,2025,0,83,
+minecraft:the_end: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+minecraft:the_nether: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.11
+	Minecraft Version ID: 1.21.11
+	Operating System: Linux (amd64) version 6.8.0-1052-azure
+	Java Version: 21.0.10, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1178196576 bytes (1123 MiB) / 2147483648 bytes (2048 MiB) up to 4294967296 bytes (4096 MiB)
+	CPUs: 2
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 9V74 80-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 17 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 1
+	Number of logical CPUs: 2
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 3972.27
+	Virtual memory used (MiB): 5247.61
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 39465.80, total: 45046.83
+	Space in storage for workdir (MiB): available: 7621.70, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx4G
+	Debug Flags: 0 total; 
+	Server Running: true
+	Player Count: 0 / 5; []
+	Active Data Packs: vanilla, mod:forge (incompatible)
+	Available Data Packs: minecart_improvements, mod:forge (incompatible), redstone_experiments, trade_rebalance, vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: -4818763515121985016
+	Suppressed Exceptions: ~~NONE~~
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.2.4
+	ModLauncher launch target: forge_server
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		/ slf4jfixer PLUGINSERVICE 
+		/ runtimedistcleaner PLUGINSERVICE 
+		/ runtime_enum_extender PLUGINSERVICE 
+		/ capability_token_subclass PLUGINSERVICE 
+		/ accesstransformer PLUGINSERVICE 
+		/ mixin PLUGINSERVICE 
+		/ fml TRANSFORMATIONSERVICE 
+		/ forge TRANSFORMATIONSERVICE 
+		/ mixin TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		lowcodefml@61
+		minecraft@1.0
+		javafml@61.0.3
+	Mod List: 
+		forge-1.21.11-61.0.3-server.jar                   |Minecraft                     |minecraft                     |1.21.11             |DONE      |Manifest: NOSIGNATURE
+		forge-1.21.11-61.0.3-universal.jar                |Forge                         |forge                         |61.0.3              |DONE      |Manifest: 84:CE:76:E8:45:35:E4:0E:63:86:DF:47:59:80:0F:67:6C:C1:5F:6E:5F:4D:B3:54:47:1A:9F:7F:ED:5E:F2:90
+	Crash Report UUID: 0baf8b77-2016-42d2-82d7-e51e6b5bcbdc
+	FML: 61.0
+	Forge: net.minecraftforge:61.0.3
